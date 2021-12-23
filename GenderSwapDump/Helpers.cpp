@@ -6,9 +6,9 @@
 void LoopDir(const char* Dir, std::vector<std::string> &pathArray)
 {
 	//std::string path = "/path/to/directory";
-	for (const auto& entry : fs::directory_iterator(Dir))
+	for (const auto& entry : std::filesystem::directory_iterator(Dir))
 	{
-		pathArray.push_back((std::string)entry.path().string().c_str());
+		pathArray.push_back(entry.path().string().c_str());
 	}
 }
 #pragma endregion

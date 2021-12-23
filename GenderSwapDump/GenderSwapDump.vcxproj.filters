@@ -13,6 +13,12 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="JsonFiles">
+      <UniqueIdentifier>{7be808b4-6daf-468b-8af5-7d6f108c412f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="xmlFiles">
+      <UniqueIdentifier>{4aa90c43-5f51-412c-9851-719131aafa92}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Source.cpp">
@@ -26,5 +32,277 @@
     <ClInclude Include="Helpers.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="xmlclass.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Jsonfiles\female_accessories.json">
+      <Filter>JsonFiles</Filter>
+    </None>
+    <None Include="Jsonfiles\female_hair.json">
+      <Filter>JsonFiles</Filter>
+    </None>
+    <None Include="Jsonfiles\female_legs.json">
+      <Filter>JsonFiles</Filter>
+    </None>
+    <None Include="Jsonfiles\female_shoes.json">
+      <Filter>JsonFiles</Filter>
+    </None>
+    <None Include="Jsonfiles\female_tops.json">
+      <Filter>JsonFiles</Filter>
+    </None>
+    <None Include="Jsonfiles\female_torsos.json">
+      <Filter>JsonFiles</Filter>
+    </None>
+    <None Include="Jsonfiles\female_undershirts.json">
+      <Filter>JsonFiles</Filter>
+    </None>
+    <None Include="Jsonfiles\male_accessories.json">
+      <Filter>JsonFiles</Filter>
+    </None>
+    <None Include="Jsonfiles\male_hair.json">
+      <Filter>JsonFiles</Filter>
+    </None>
+    <None Include="Jsonfiles\male_legs.json">
+      <Filter>JsonFiles</Filter>
+    </None>
+    <None Include="Jsonfiles\male_shoes.json">
+      <Filter>JsonFiles</Filter>
+    </None>
+    <None Include="Jsonfiles\male_tops.json">
+      <Filter>JsonFiles</Filter>
+    </None>
+    <None Include="Jsonfiles\male_torsos.json">
+      <Filter>JsonFiles</Filter>
+    </None>
+    <None Include="Jsonfiles\male_undershirts.json">
+      <Filter>JsonFiles</Filter>
+    </None>
+    <None Include="Jsonfiles\masks.json">
+      <Filter>JsonFiles</Filter>
+    </None>
+    <None Include="Jsonfiles\props_female_bracelets.json">
+      <Filter>JsonFiles</Filter>
+    </None>
+    <None Include="Jsonfiles\props_female_ears.json">
+      <Filter>JsonFiles</Filter>
+    </None>
+    <None Include="Jsonfiles\props_female_glasses.json">
+      <Filter>JsonFiles</Filter>
+    </None>
+    <None Include="Jsonfiles\props_female_hats.json">
+      <Filter>JsonFiles</Filter>
+    </None>
+    <None Include="Jsonfiles\props_female_watches.json">
+      <Filter>JsonFiles</Filter>
+    </None>
+    <None Include="Jsonfiles\props_male_bracelets.json">
+      <Filter>JsonFiles</Filter>
+    </None>
+    <None Include="Jsonfiles\props_male_ears.json">
+      <Filter>JsonFiles</Filter>
+    </None>
+    <None Include="Jsonfiles\props_male_glasses.json">
+      <Filter>JsonFiles</Filter>
+    </None>
+    <None Include="Jsonfiles\props_male_hats.json">
+      <Filter>JsonFiles</Filter>
+    </None>
+    <None Include="Jsonfiles\props_male_watches.json">
+      <Filter>JsonFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_f_freemode_01_airraces_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_f_freemode_01_assault_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_f_freemode_01_beach_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_f_freemode_01_biker_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_f_freemode_01_business_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_f_freemode_01_business2_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_f_freemode_01_christmas2017_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_f_freemode_01_executive_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_f_freemode_01_gunrunning_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_f_freemode_01_halloween_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_f_freemode_01_heist_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_f_freemode_01_hipster_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_f_freemode_01_impexp_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_f_freemode_01_independence_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_f_freemode_01_lowrider_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_f_freemode_01_lowrider2_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_f_freemode_01_luxe_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_f_freemode_01_luxe2_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_f_freemode_01_mpbattle_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_f_freemode_01_mpchristmas2018_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_f_freemode_01_mpheist3_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_f_freemode_01_mpheist4_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_f_freemode_01_mplts_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_f_freemode_01_mpsecurity_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_f_freemode_01_mpsum_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_f_freemode_01_mptuner_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_f_freemode_01_mpvinewood_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_f_freemode_01_pilot_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_f_freemode_01_replay_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_f_freemode_01_smuggler_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_f_freemode_01_stunt_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_f_freemode_01_valentines_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_m_freemode_01_airraces_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_m_freemode_01_assault_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_m_freemode_01_beach_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_m_freemode_01_biker_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_m_freemode_01_business_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_m_freemode_01_business2_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_m_freemode_01_christmas2017_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_m_freemode_01_executive_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_m_freemode_01_gunrunning_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_m_freemode_01_halloween_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_m_freemode_01_heist_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_m_freemode_01_hipster_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_m_freemode_01_impexp_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_m_freemode_01_independence_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_m_freemode_01_lowrider_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_m_freemode_01_lowrider2_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_m_freemode_01_luxe_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_m_freemode_01_luxe2_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_m_freemode_01_mpbattle_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_m_freemode_01_mpchristmas2018_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_m_freemode_01_mpheist3_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_m_freemode_01_mpheist4_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_m_freemode_01_mplts_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_m_freemode_01_mpsecurity_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_m_freemode_01_mpsum_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_m_freemode_01_mptuner_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_m_freemode_01_mpvinewood_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_m_freemode_01_pilot_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_m_freemode_01_replay_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_m_freemode_01_smuggler_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_m_freemode_01_stunt_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
+    <None Include="xmlfiles\mp_m_freemode_01_valentines_shop.meta">
+      <Filter>xmlFiles</Filter>
+    </None>
   </ItemGroup>
 </Project>
