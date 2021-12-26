@@ -1,30 +1,22 @@
-#include "Helpers.h"
-#include "xmlclass.h"
+#include "JsonClass.h"
+#include "SMclass.h"
+#include "XmlClass.h"
 
 
 
 int main()
 {
-	ScriptData scriptmeta = ScriptData();
-
-	scriptmeta.loop();
-
+	XMLPClass xmlparse = XMLPClass();
+	xmlparse.dumpNoJson();
+	//JPClass jparse = JPClass();
+	
 	system("pause");
 	return 0;
 }
 
 /**
 TODO:
-read and understand the documentation for pugixml
-practice some examples and implement methods that'll yield speed.
-
-loop through all keys and values. maybe use xpath to search and find without looping?
-xpath may be used for single key/ value searching.
-
-looping necessary for dumping.
-
-$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-[+]finish up structs, finish array of structs.
-[+]work on creating vectors.
-[+] think of ways that will speed up parsing ie use of xpath for single search
+[+] clean up and fix inheritence issue with classes.
+[+] start parsing json using parsed xml info.
+[+] add log class and timer (from gta glitt)
 */

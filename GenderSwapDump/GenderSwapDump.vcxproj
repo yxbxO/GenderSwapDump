@@ -157,10 +157,12 @@
   <ItemGroup>
     <ClCompile Include="Helpers.cpp" />
     <ClCompile Include="Source.cpp" />
+    <ClCompile Include="XmlClass.h" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Helpers.h" />
-    <ClInclude Include="xmlclass.h" />
+    <ClInclude Include="JsonClass.h" />
+    <ClInclude Include="SMclass.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Jsonfiles\female_accessories.json" />

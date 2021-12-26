@@ -2,7 +2,12 @@
 #include <filesystem>
 #include <Windows.h>
 
+
+#include <json/value.h>
+#include <json/json.h>
+
 #include "pugixml/pugixml.hpp"
+#include "Helpers.h"
 
 #include <fstream>
 #include <iostream>
@@ -10,126 +15,244 @@
 
 #include <string>
 
-struct fitComp
+#include "JsonClass.h"
+#include "SMclass.h"
+
+struct label_hash
 {
-	LPCSTR inFiles; //its named in the scriptmeta ie "PHEAD", "BERD"
-	LPCSTR name; // what we call them ie "hats", "glasses", "torso 1", "torso 2"
+	label_hash(LPCSTR textLabel, LPCSTR uniqueHash, LPCSTR element) :m_textLabel{ textLabel }, m_uniqueHash{ uniqueHash }, m_element{ element } {};
+	const char* m_textLabel;
+	const char* m_uniqueHash;
+	const char* m_element; //the node it is under. ie "pedOutfits", "pedComponents", "pedProps"
 };
 
-const fitComp components[]
+struct docparse
 {
-	{"PHEAD",	"hat"},
-	{"BERD",	"mask"},
-	{"PEYES",	"glasses"},
-	{"TORSO",	"gloves"},
-	{"ACCS",	"torso 1"},
-	{"DECL",	"Decal"},
-	{"FEET",	"Shoes"},
-	{"HAIR",	"hair"},
-	{"JBIB",	"torso 2"},
-	{"LEGS",	"legs"},
-	{"TEETH",	"accessories"},
+	pugi::xml_document document;
+	pugi::xml_parse_result parse_result;
+	LPCSTR xmlpath;
 };
 
-struct dlcnames
+struct xmlnodes
 {
-	LPCSTR dlc_name;		//ie "Beach Bum Update"
-	LPCSTR dlc_key;			//ie "DLC_MP_BEACH"
-	LPCSTR dlcFileName;		//ie "mpbeach"
+	const char* pedName;
+	const char* dlcName;
+	const char* fullDlcName;
+	std::vector<label_hash> infoArray; //stores array of label and hash
 };
 
-const dlcnames DLC[]
+struct xmlFound
 {
-	{"Beach Bum Update", "DLC_MP_BEACH", "mpbeach"},
-	{"Holiday Gifts DLC", "DLC_MP_XMAS", "mpchristmas"},
-	{"Valentine's Day Massacre Special DLC", "DLC_MP_VAL", "mpvalentines"},
-	{"Business Update", "DLC_MP_BUSI", "mpbusiness"},
-	{"Business Update", "DLC_MP_BUSI2", "mpbusiness2"},
-	{"I'm Not A Hipster Update", "DLC_MP_HIPS", "mphipster"},
-	{"Independence Day Special DLC", "DLC_MP_IND", "mpindependence"},
-	{"San Andreas Flight School Update", "DLC_MP_PILOT", "mppilot"},
-	{"Last Team Standing Update", "DLC_MP_LTS", "mplts"},
-	{"Festive Surprise", "DLC_MP_XMAS2", "mpchristmas2"},
-	{"Heists Update", "DLC_MP_HEIST", "mpheist"},
-	{"Ill-Gotten Gains Part 1", "DLC_MP_LUXE", "mpluxe"},
-	{"Ill-Gotten Gains Part 2", "DLC_MP_LUXE2", "mpluxe2"},
-	{"Lowriders", "DLC_MP_LOW", "mplowrider"},
-	{"Halloween Surprise", "DLC_MP_HAL", "mphalloween"},
-	{"Executives and Other Criminals", "DLC_MP_APA", "mpapartment"},
-	{"Festive Surprise 2015", "DLC_MP_XMAS3", "mpxmas_604490"},
-	{"January 2016 Update", "DLC_MP_JAN", "mpjanuary2016"},
-	{"Be My Valentine", "DLC_MP_VAL2", "mpvalentines2"},
-	{"Lowriders: Custom Classics", "DLC_MP_LOW2", "mplowrider2"},
-	{"Finance And Felony", "DLC_MP_EXEC", "mpexecutive"},
-	{"Cunning Stunts", "DLC_MP_STUNT", "mpstunt"},
-	{"Bikers", "DLC_MP_BIKER", "mpbiker"},
-	{"Import/Export", "DLC_MP_IE", "mpimportexport"},
-	{"Gunrunning", "DLC_MP_GR", "mpgunrunning"},
-	{"Air Races / Smuggler", "DLC_MP_AR", "mpairraces"},
-	{"Smuggler's Run", "DLC_MP_SMUG", "mpsmuggler"},
-	{"The Doomsday Heist", "DLC_MP_X17", "mpchristmas2017"},
-	{"Southern San Andreas Super Sport Series", "DLC_MP_ASS", "mpassault"},
-	{"After Hours", "DLC_MP_BH", "mpbattle"},
-	{"Arena War", "DLC_MP_ARENA", "mpchristmas2018"},
-	{"The Diamond Casino & Resort", "DLC_MP_VWD", "mpvinewood"},
-	{"The Diamond Casino Heist", "DLC_MP_H3", "mpheist3"},
-	{"Los Santos Summer Special", "DLC_MP_SUM", "mpsum"},
-	{"The Cayo Perico Heist", "DLC_MP_H4", "mpheist4"},
-	{"Tuner", "DLC_MP_TUNER", "mptuner"},
-	{"The Contract", "DLC_MP_FIXER", "mpsecurity"}
+	std::vector<xmlnodes> mXML;
+	std::vector<xmlnodes> fXML;
 };
 
-class ScriptData
+/**
+* [+] the class parses all xml files and stores an array of "xmlnode" objects called nodes (member var)
+* [+]DocResults (member var) = stores info of each parsed xml file, easily indexable.
+* [+] printloop member func = prints what is stored in docsResult array.
+* [+] loopnodes member func = prints waht is stored in nodes array.
+* [+] the class is ready to be used.
+* 
+*/
+
+class XMLPClass : public Parse, public ScriptData
 {
 private:
-	pugi::xml_document doc;
-	LPCSTR source = "scriptmetadata.meta";
-	pugi::xml_parse_result result;
-
-	// A valid XML document must have a single root node
-	pugi::xml_node MPApparelData;
+	//std::vector<xmlnodes> nodes; //stores node info and has 
+	std::vector<docparse> docResults;
 protected:
-	std::vector<std::string> dlc_specific;
-	std::vector<std::string> dumpAll;
-
+	xmlFound dataFound;
 public:
-	ScriptData() {
-		// Load XML file into memory
-		// Remark: to fully read declaration entries you have to specify
-		// "pugi::parse_declaration"
-		this->result = doc.load_file(this->source, pugi::parse_default | pugi::parse_declaration);
-
-		MPApparelData = doc.document_element().child("MPApparelData");
-		if (!result)
+	XMLPClass() : Parse{ "xmlfiles/" }, ScriptData() {
+		if (loadfiles())
 		{
-			std::cout << "Parse error: " << result.description()
-				<< ", character pos= " << result.offset;
-		}
-		else if (result)
-		{
-			std::cout << "XML [" << source << "] parsed without errors, attr value: [" << this->MPApparelData.name() << "]\n\n";
+			parseAll();
+			sortDump();
 		}
 	}
 
-	void loop()
+	bool loadfiles()
 	{
-		//loops through both male and female nodes
-		for (pugi::xml_node Gender = MPApparelData.child("MPApparelDataMale"); Gender; Gender = Gender.next_sibling())
+		docparse parsexml;
+		for (auto const& elem : this->m_paths)
 		{
-			std::cout << "Gender: " << Gender.name() << "\n";
-			//loops through all "Item" nodes within the male and female nodes
-			for (pugi::xml_node item = Gender.child("Item"); item; item = item.next_sibling())
+			parsexml.parse_result = parsexml.document.load_file(elem.c_str(), pugi::parse_default | pugi::parse_declaration);
+			parsexml.xmlpath = elem.c_str();
+			this->docResults.emplace_back(std::move(parsexml));
+		}
+		//if succeeded
+		return true;
+	}
+	void parseAll()
+	{
+		pugi::xml_node PedApparel;
+
+		const auto fillnode = [](const auto& node) -> LPCSTR {
+			if (node.child_value())
 			{
-				//loops through all atributes within "item" childnodes
-				for (pugi::xml_attribute attr = item.first_attribute(); attr; attr = attr.next_attribute())
+				return node.child_value();
+			}
+		};
+
+		const LPCSTR specNodes[3]
+		{
+			"pedOutfits",
+			"pedComponents",
+			"pedProps",
+		};
+
+		for (auto const& elem : docResults)
+		{
+			//std::cout << "\nROOT: " << elem.root.name() << "\n";
+			pugi::xml_node root;
+			if (elem.parse_result)
+			{
+				root = elem.document.document_element();
+				//std::cout << "XML [" << elem.xmlpath << "] parsed without errors, root name: [" << root.name() << "]\n";
+			}
+			xmlnodes nodedata; //object for user defined struct where im creating the vector for. pushback at the end of loop
+			if (PedApparel = root.child("pedName")) {
+				nodedata.pedName = fillnode(PedApparel); 
+			}
+
+			if (PedApparel = root.child("dlcName")) {
+				nodedata.dlcName = fillnode(PedApparel); 
+			}
+
+			if (PedApparel = root.child("fullDlcName")) {
+				nodedata.fullDlcName = fillnode(PedApparel); 
+			}
+
+			for (int i{}; i < ARRAYSIZE(specNodes); ++i)
+			{
+				PedApparel = root.child(specNodes[i]);
+				if (PedApparel)
 				{
-					if(strstr(attr.value(), "DLC_MP_FIXER"))
-						std::cout << " " << attr.name() << "=" << attr.value() << '\n';
+					//loops through each child node "Item"
+					for (pugi::xml_node item = PedApparel.child("Item"); item; item = item.next_sibling())
+					{
+						//get textlabel and uniquehashes.
+						pugi::xml_node lbl;
+						pugi::xml_node hash;
+						lbl = item.child("textLabel");
+
+						hash = item.child("uniqueNameHash");
+
+						//temp.push_back(label_hash(fillnode(lbl), fillnode(hash), PedApparel.name()));
+						nodedata.infoArray.push_back(label_hash(fillnode(lbl), fillnode(hash), PedApparel.name()));
+					}
+				}
+			}
+
+			if (strstr(nodedata.pedName, "_m_"))
+			{
+				this->dataFound.mXML.push_back(nodedata);
+			}
+			else if (strstr(nodedata.pedName, "_f_"))
+			{
+				this->dataFound.fXML.push_back(nodedata);
+			}
+			
+			
+			//this->nodes.push_back(nodedata);
+		}
+
+	}
+	void sortDump()
+	{
+
+		//loops through all the male found key and values
+		for (auto& elem : this->dumpAll.mDump)
+		{
+			//loop through all the parsed xml files
+			for (auto const& p : dataFound.mXML)
+			{
+				//loop through every xml file's texlabel and uniquehash
+				for (auto const& i : p.infoArray)
+				{
+					if (!strcmp(elem.m_key, i.m_uniqueHash))
+					{
+						if (*i.m_textLabel == '\0')
+						{
+							elem.m_textlabel = "[NOT IN STORES]";
+						}
+						else
+						{
+							elem.m_textlabel = i.m_textLabel;
+						}
+					}
+				}
+			}
+		}
+
+		//loops through all the female found key and values
+		for (auto& elem : this->dumpAll.fDump)
+		{
+			//loop through all the parsed xml files
+			for (auto const& p : dataFound.fXML)
+			{
+				//loop through every xml file's texlabel and uniquehash
+				for (auto const& i : p.infoArray)
+				{
+					if (!strcmp(elem.m_key, i.m_uniqueHash))
+					{
+						if (*i.m_textLabel == '\0' && *elem.m_textlabel == '\0')
+						{
+							elem.m_textlabel = "[NOT IN STORES] ";
+						}
+						else
+						{
+							elem.m_textlabel = i.m_textLabel;
+						}
+					}
 				}
 			}
 		}
 	}
 
-	~ScriptData() {}
+	//use this to dump when json is not yet provided.
+	void dumpNoJson()
+	{
+		LOG("\t\t\t\t\t\t--------------MALE UNLOCKS----------------");
+		//loops through all the found key and values
+		for (auto& t : this->dumpAll.mDump)
+		{
+			//loop through all the found key and values again
+			for (auto& m : this->dumpAll.fDump)
+			{
+				if (!strcmp(t.value, m.value))
+				{
+					LOG("\n\t\t[+] TO UNLOCK : %s, %s, %s, %s, %s", t.m_key, t.m_textlabel, t.value, t.comp, t.DLC_name);
+					LOG("\t\t[+] BUY ON FEMALE: %s, %s, %s, %s, %s", m.m_key, m.m_textlabel, m.value, m.comp, m.DLC_name);
+					//std::cout << "\n[+] TO UNLOCK : " << t.m_key << " " << t.m_textlabel << " " << t.m_Gender << " " << t.value << std::endl;
+					//std::cout << "[+] BUY ON FEMALE: " << m.m_key << " "  << m.m_textlabel << " " << m.m_Gender << " " << m.value << std::endl;
+				
+				}
+			}
 
+		}
+
+		LOG("\n\n\n\t\t\t\t--------------FEMALE UNLOCKS----------------");
+		//loops through all the found key and values
+		for (auto& t : this->dumpAll.fDump)
+		{
+			//loop through all the found key and values again
+			for (auto& m : this->dumpAll.mDump)
+			{
+				if (!strcmp(t.value, m.value))
+				{
+					LOG("\n\t\t[+] TO UNLOCK : %s, %s, %s, %s, %s", t.m_key, t.m_textlabel, t.value, t.comp, t.DLC_name);
+					LOG("\t\t[+] BUY ON MALE: %s, %s, %s, %s, %s", m.m_key, m.m_textlabel, m.value, m.comp, m.DLC_name);
+
+					//std::cout << "\n[+] TO UNLOCK: " << t.m_key << " " << t.m_textlabel << " " << t.m_Gender << " " << t.value << std::endl;
+					//std::cout << "[+] BUY ON MALE : " << m.m_key << " " << m.m_textlabel << " " << m.m_Gender << " " << m.value << std::endl;
+				}
+			}
+
+		}
+	}
+
+	
+	~XMLPClass() {}
 };
