@@ -31,13 +31,16 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="JsonClass.h">
+    <ClInclude Include="ParseClass.h">
       <Filter>Resources\Header Files</Filter>
     </ClInclude>
     <ClInclude Include="SMclass.h">
       <Filter>Resources\Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Helpers.h">
+      <Filter>Resources\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="JParse.h">
       <Filter>Resources\Header Files</Filter>
     </ClInclude>
   </ItemGroup>

@@ -1,4 +1,4 @@
-#include "JsonClass.h"
+#include "ParseClass.h"
 #include "Helpers.h"
 
 #pragma region helpers
@@ -9,7 +9,7 @@ void Log_(const char* fmt, ...) {
 	vsprintf_s(text, fmt, ap);
 	va_end(ap);
 
-	std::ofstream logfile("log.txt", std::ios::app);
+	std::ofstream logfile("clothingDump.txt", std::ios::app);
 	if (logfile.is_open() && text)	logfile << text << std::endl;
 	logfile.close();
 }

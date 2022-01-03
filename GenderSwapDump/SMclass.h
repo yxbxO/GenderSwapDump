@@ -3,6 +3,7 @@
 #include <Windows.h>
 
 #include "pugixml/pugixml.hpp"
+#include <array>
 
 #include <fstream>
 #include <iostream>
@@ -11,19 +12,19 @@
 #include <string>
 
 #define numOfDlc 37
-#define numOfComp 12
+#define numOfComp 15
 
 struct fitComp
 {
-	LPCSTR inFiles; //its named in the scriptmeta ie "PHEAD", "BERD"
-	LPCSTR name; // what we call them ie "hats", "glasses", "torso 1", "torso 2"
+	LPCSTR inFiles = ""; //its named in the scriptmeta ie "PHEAD", "BERD"
+	LPCSTR name = ""; // what we call them ie "hats", "glasses", "torso 1", "torso 2"
 };
 
 struct dlcnames
 {
-	LPCSTR name;		//ie "Beach Bum Update"
-	LPCSTR dlc_key;			//ie "DLC_MP_BEACH"
-	LPCSTR dlcFileName;		//ie "mpbeach"
+	LPCSTR name = "";		//ie "Beach Bum Update"
+	LPCSTR dlc_key = "";			//ie "DLC_MP_BEACH"
+	LPCSTR dlcFileName = "";		//ie "mpbeach"
 };
 
 enum codename
@@ -71,11 +72,14 @@ enum codename
 struct pasta
 {
 	LPCSTR m_textlabel = "";
-	LPCSTR m_key;
-	LPCSTR m_Gender;
-	LPCSTR value;
-	LPCSTR DLC_name; //The Diamond Casino & Resort
-	LPCSTR comp; //JBIB = torso 2
+	LPCSTR m_key = "";
+	LPCSTR m_Gender = "";
+	LPCSTR value = "";
+	LPCSTR DLC_name = ""; //The Diamond Casino & Resort
+	LPCSTR comp = ""; //JBIB = torso 2
+	LPCSTR DrawableID = "[NA]";
+	LPCSTR TextureID = "[NA]";
+	LPCSTR itemName = "[NO IN-GAME NAME]";
 };
 
 struct sFound
@@ -321,12 +325,12 @@ public:
 				}
 				if (strstr(key_val.m_key, "_M_"))
 				{
-					key_val.m_Gender = "Male Ped";
+					key_val.m_Gender = "Male";
 					this->dumpAll.mDump.push_back(key_val);
 				}
 				else if (strstr(key_val.m_key, "_F_"))
 				{
-					key_val.m_Gender = "Female Ped";
+					key_val.m_Gender = "Female";
 					this->dumpAll.fDump.push_back(key_val);
 				}
 			}
@@ -398,8 +402,13 @@ public:
 		{"JBIB",	"torso 2"},
 		{"LEGS",	"legs"},
 		{"TEETH",	"accessories"},
-		{"OUTFIT",	"outfit"}
-	} };
+		{"OUTFIT",	"outfit"},
 
-	~ScriptData() {}
+		{"WRIST",	"watches"},
+		{"SPECIAL", "UNKNOWN"},
+		{"UPPR",	"torso 2"}
+	} 
+	};
+
+	virtual ~ScriptData() {}
 };
