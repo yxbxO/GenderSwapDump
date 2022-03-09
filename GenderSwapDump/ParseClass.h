@@ -230,6 +230,10 @@ public:
 			{
 				j.comp = "watch";
 			}
+			else if (strstr(elem.filename, "mask"))
+			{
+				j.comp = "mask";
+			}
 
 			for (rapidjson::Value::ConstMemberIterator D_ID = elem.doc.MemberBegin(); D_ID != elem.doc.MemberEnd(); ++D_ID)
 			{

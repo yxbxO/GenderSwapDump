@@ -157,7 +157,6 @@
   <ItemGroup>
     <ClCompile Include="Helpers.cpp" />
     <ClCompile Include="Source.cpp" />
-    <ClCompile Include="XmlClass.h" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Helpers.h" />

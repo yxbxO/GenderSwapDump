@@ -41,39 +41,6 @@ public:
 
 	~JPClass() override { 	}
 
-#if 0
-	//unused array. not included to save space.
-	const FileGender files[25]
-	{
-		{eClothingType::ACCESSORIES, Gender::FEMALE, this->m_jpaths[0].c_str()},
-		{eClothingType::HAIR, Gender::FEMALE, this->m_jpaths[1].c_str()},
-		{eClothingType::LEGS, Gender::FEMALE, this->m_jpaths[2].c_str()},
-		{eClothingType::SHOES, Gender::FEMALE, this->m_jpaths[3].c_str() },
-		{eClothingType::TOPS, Gender::FEMALE, this->m_jpaths[4].c_str() },
-		{eClothingType::TORSOS, Gender::FEMALE, this->m_jpaths[5].c_str()},
-		{eClothingType::UNDERSHIRTS, Gender::FEMALE, this->m_jpaths[6].c_str() },
-		{eClothingType::MASKS, Gender::NB, this->m_jpaths[14].c_str()},
-		{eClothingType::ACCESSORIES, Gender::MALE, this->m_jpaths[7].c_str() },
-		{eClothingType::HAIR, Gender::MALE, this->m_jpaths[8].c_str() },
-		{eClothingType::LEGS, Gender::MALE, this->m_jpaths[9].c_str() },
-		{eClothingType::SHOES, Gender::MALE, this->m_jpaths[10].c_str() },
-		{eClothingType::TOPS, Gender::MALE, this->m_jpaths[11].c_str() },
-		{eClothingType::TORSOS, Gender::MALE, this->m_jpaths[12].c_str() },
-		{eClothingType::UNDERSHIRTS, Gender::MALE, this->m_jpaths[13].c_str() },
-		//props
-		{eClothingType::BRACELETS, Gender::FEMALE, this->m_jpaths[15].c_str() },
-		{eClothingType::EARS, Gender::FEMALE, this->m_jpaths[16].c_str() },
-		{eClothingType::GLASSES, Gender::FEMALE, this->m_jpaths[17].c_str() },
-		{eClothingType::HATS, Gender::FEMALE, this->m_jpaths[18].c_str() },
-		{eClothingType::WATCHES, Gender::FEMALE, this->m_jpaths[19].c_str() },
-		{eClothingType::BRACELETS, Gender::MALE, this->m_jpaths[20].c_str()},
-		{eClothingType::EARS, Gender::MALE, this->m_jpaths[21].c_str() },
-		{eClothingType::GLASSES, Gender::MALE, this->m_jpaths[22].c_str() },
-		{eClothingType::HATS, Gender::MALE, this->m_jpaths[23].c_str() },
-		{eClothingType::WATCHES, Gender::MALE, this->m_jpaths[24].c_str()},
-	};
-#endif
-
 	void sortDump()
 	{
 		//loops through all the male found key and values (in scriptmeta)
@@ -142,7 +109,7 @@ public:
 			}
 
 		}
-		std::cout << "DONE COMPARING VALUES AND STORING WHAT UNLOCKS WHAT" << std::endl;
+		std::cout << "DONE COMPARING VALUES AND CACHING UNLOCKS!\n";
 
 		for (const auto& elem : jInfo)
 		{
@@ -185,29 +152,30 @@ public:
 				}
 			}
 		}
-		std::cout << "DONE SETTING EVERYTHING UP. STARTING DUMP!" << std::endl;
+		std::cout << "DONE SETTING EVERYTHING UP. STARTING DUMP!\n";
 	}
 
 	void sortjsonxml()
 	{
-		//std::cout << this->witit.Male.toUnlock.size() << std::endl;
 
 		LOG("\t\t\t\t\t\t--------------MALE UNLOCKS----------------\n");
 		for (size_t i{}; i < this->witit.Male.toUnlock.size(); ++i)//(const auto& elem : this->overwit.toUnlock)
 		{
-			LOG("\n[x]GENDER: %s. TO UNLOCK: %s. TEXTLABEL: %s. DLC: %s", this->witit.Male.toUnlock[i].m_Gender, this->witit.Male.toUnlock[i].m_key, this->witit.Male.toUnlock[i].m_textlabel, this->witit.Male.toUnlock[i].DLC_name);
-			LOG("\t\t COMPONENT: %s. DrawableID: %s. TextureID: %s. NAME: %s.", this->witit.Male.toUnlock[i].comp, this->witit.Male.toUnlock[i].DrawableID, this->witit.Male.toUnlock[i].TextureID, this->witit.Male.toUnlock[i].itemName);
-			LOG("[x]GENDER: %s. TO BUY: %s. TEXTLABEL: %s. DLC: %s", this->witit.Female.toBuy[i].m_Gender, this->witit.Female.toBuy[i].m_key, this->witit.Female.toBuy[i].m_textlabel, this->witit.Female.toBuy[i].DLC_name);
-			LOG("\t\t COMPONENT: %s. DrawableID: %s. TextureID: %s. NAME: %s.", this->witit.Female.toBuy[i].comp, this->witit.Female.toBuy[i].DrawableID, this->witit.Female.toBuy[i].TextureID, this->witit.Female.toBuy[i].itemName);
+			LOG("\n[x]GENDER: %s\nTO UNLOCK: %s. DLC: %s", this->witit.Male.toUnlock[i].m_Gender, this->witit.Male.toUnlock[i].m_textlabel, this->witit.Male.toUnlock[i].DLC_name);
+			LOG("\t\t COMPONENT: %s. DrawableID: %s. TextureID: %s. COMPONENT NAME: %s.", this->witit.Male.toUnlock[i].comp, this->witit.Male.toUnlock[i].DrawableID, this->witit.Male.toUnlock[i].TextureID, this->witit.Male.toUnlock[i].itemName);
+
+			LOG("[x]GENDER: %s\nTO BUY: %s. DLC: %s", this->witit.Female.toBuy[i].m_Gender, this->witit.Female.toBuy[i].m_textlabel, this->witit.Female.toBuy[i].DLC_name);
+			LOG("\t\t COMPONENT: %s. DrawableID: %s. TextureID: %s. COMPONENT NAME: %s.\n\n", this->witit.Female.toBuy[i].comp, this->witit.Female.toBuy[i].DrawableID, this->witit.Female.toBuy[i].TextureID, this->witit.Female.toBuy[i].itemName);
 		}
 
 		LOG("\n\n\n\t\t\t\t--------------FEMALE UNLOCKS----------------\n");
 		for (int i{}; i < this->witit.Female.toUnlock.size(); ++i)
 		{
-			LOG("\n[x]GENDER: %s. TO UNLOCK: %s. TEXTLABEL: %s. DLC: %s", this->witit.Female.toUnlock[i].m_Gender, this->witit.Female.toUnlock[i].m_key, this->witit.Female.toUnlock[i].m_textlabel, this->witit.Female.toUnlock[i].DLC_name);
-			LOG("\t\t COMPONENT: %s. DrawableID: %s. TextureID: %s. NAME: %s.", this->witit.Female.toUnlock[i].comp,this->witit.Female.toUnlock[i].DrawableID, this->witit.Female.toUnlock[i].TextureID, this->witit.Female.toUnlock[i].itemName);
-			LOG("[x]GENDER: %s. TO BUY: %s. TEXTLABEL: %s. DLC: %s", this->witit.Male.toBuy[i].m_Gender, this->witit.Male.toBuy[i].m_key, this->witit.Male.toBuy[i].m_textlabel, this->witit.Male.toBuy[i].DLC_name);
-			LOG("\t\t COMPONENT: %s. DrawableID: %s. TextureID: %s. NAME: %s.", this->witit.Male.toBuy[i].comp, this->witit.Male.toBuy[i].DrawableID, this->witit.Male.toBuy[i].TextureID, this->witit.Male.toBuy[i].itemName);
+			LOG("\n[x]GENDER: %s\n TO UNLOCK: %s. DLC: %s", this->witit.Female.toUnlock[i].m_Gender, this->witit.Female.toUnlock[i].m_textlabel, this->witit.Female.toUnlock[i].DLC_name);
+			LOG("\t\t COMPONENT: %s. DrawableID: %s. TextureID: %s. COMPONENT NAME: %s.", this->witit.Female.toUnlock[i].comp, this->witit.Female.toUnlock[i].DrawableID, this->witit.Female.toUnlock[i].TextureID, this->witit.Female.toUnlock[i].itemName);
+
+			LOG("[x]GENDER: %s\n TO BUY: %s. DLC: %s", this->witit.Male.toBuy[i].m_Gender, this->witit.Male.toBuy[i].m_textlabel, this->witit.Male.toBuy[i].DLC_name);
+			LOG("\t\t COMPONENT: %s. DrawableID: %s. TextureID: %s. COMPONENT NAME: %s.\n\n", this->witit.Male.toBuy[i].comp, this->witit.Male.toBuy[i].DrawableID, this->witit.Male.toBuy[i].TextureID, this->witit.Male.toBuy[i].itemName);
 		}
 	}
 

@@ -71,15 +71,15 @@ enum codename
 
 struct pasta
 {
-	LPCSTR m_textlabel = "";
-	LPCSTR m_key = "";
-	LPCSTR m_Gender = "";
-	LPCSTR value = "";
-	LPCSTR DLC_name = ""; //The Diamond Casino & Resort
-	LPCSTR comp = ""; //JBIB = torso 2
+	LPCSTR m_textlabel = "[NA]";
+	LPCSTR m_key = "[NA]";
+	LPCSTR m_Gender = "[NA]";
+	LPCSTR value = "[NA]";
+	LPCSTR DLC_name = "[NA]"; //The Diamond Casino & Resort
+	LPCSTR comp = "[NA]"; //JBIB = torso 2
 	LPCSTR DrawableID = "[NA]";
 	LPCSTR TextureID = "[NA]";
-	LPCSTR itemName = "[NO IN-GAME NAME]";
+	LPCSTR itemName = "[NO/ UNKNOWN NAME]";
 };
 
 struct sFound

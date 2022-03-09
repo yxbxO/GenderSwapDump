@@ -19,7 +19,6 @@ void Log_(const char* fmt, ...) {
 
 void LoopDir(const char* Dir, std::vector<std::string> &pathArray)
 {
-	//std::string path = "/path/to/directory";
 	for (auto const &entry : std::filesystem::directory_iterator(Dir))
 	{
 		pathArray.push_back(entry.path().string().c_str());
