@@ -1232,5 +1232,53 @@
             "HairTattooCollection": 601646824,
             "HairTattooOverlay": 1334100948
         }
+    },
+    "77": {
+        "0": {
+            "GXT": "CLO_SBM_H_0_0",
+            "Localized": "Two Block",
+            "HairTattooCollection": 987639353,
+            "HairTattooOverlay": -1927370417
+        }
+    },
+    "78": {
+        "0": {
+            "GXT": "CLO_SBM_H_1_0",
+            "Localized": "Shaggy Mullet",
+            "HairTattooCollection": 987639353,
+            "HairTattooOverlay": -1088161005
+        }
+    },
+    "79": {
+        "0": {
+            "GXT": "CLO_SCM_H_0_0",
+            "Localized": "Short Curls Fade",
+            "HairTattooCollection": 1310977332,
+            "HairTattooOverlay": 423082762
+        }
+    },
+    "80": {
+        "0": {
+            "GXT": "CLO_SCM_H_1_0",
+            "Localized": "Curtains",
+            "HairTattooCollection": 1310977332,
+            "HairTattooOverlay": -2024952994
+        }
+    },
+    "81": {
+        "0": {
+            "GXT": "CLO_X7M_H_0_0",
+            "Localized": "Knotless Braids",
+            "HairTattooCollection": 1099237437,
+            "HairTattooOverlay": -1647235043
+        }
+    },
+    "82": {
+        "0": {
+            "GXT": "CLO_X8M_H_0_0",
+            "Localized": "Shoulder Length Tousled",
+            "HairTattooCollection": -648258913,
+            "HairTattooOverlay": 598214437
+        }
     }
 }

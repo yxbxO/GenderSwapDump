@@ -6664,5 +6664,1849 @@
             "GXT": "CLO_FXF_PH_7_8",
             "Localized": "White Pounders Backwards"
         }
+    },
+    "163": {
+        "0": {
+            "GXT": "CLO_SBF_PH_0_0",
+            "Localized": "Black LD Organics Backwards Cap"
+        }
+    },
+    "164": {
+        "0": {
+            "GXT": "CLO_SBF_PH_1_0",
+            "Localized": "Black LD Organics Forwards Cap"
+        }
+    },
+    "165": {
+        "0": {
+            "GXT": "CLO_SBF_PH_2_0",
+            "Localized": "Gray Believe Forwards Cap"
+        },
+        "1": {
+            "GXT": "CLO_SBF_PH_2_1",
+            "Localized": "Black Believe Forwards Cap"
+        }
+    },
+    "166": {
+        "0": {
+            "GXT": "CLO_SBF_PH_3_0",
+            "Localized": "Glow Believe Forwards Cap"
+        }
+    },
+    "167": {
+        "0": {
+            "GXT": "CLO_SBF_PH_4_0",
+            "Localized": "Gray Believe Backwards Cap"
+        },
+        "1": {
+            "GXT": "CLO_SBF_PH_4_1",
+            "Localized": "Black Believe Backwards Cap"
+        }
+    },
+    "168": {
+        "0": {
+            "GXT": "CLO_SBF_PH_5_0",
+            "Localized": "Ice Flat Cap"
+        },
+        "1": {
+            "GXT": "CLO_SBF_PH_5_1",
+            "Localized": "Ash Flat Cap"
+        },
+        "2": {
+            "GXT": "CLO_SBF_PH_5_2",
+            "Localized": "Mono Flat Cap"
+        },
+        "3": {
+            "GXT": "CLO_SBF_PH_5_3",
+            "Localized": "Dark Gray Flat Cap"
+        },
+        "4": {
+            "GXT": "CLO_SBF_PH_5_4",
+            "Localized": "Beige Flat Cap"
+        },
+        "5": {
+            "GXT": "CLO_SBF_PH_5_5",
+            "Localized": "Chocolate Flat Cap"
+        },
+        "6": {
+            "GXT": "CLO_SBF_PH_5_6",
+            "Localized": "Burgundy Flat Cap"
+        },
+        "7": {
+            "GXT": "CLO_SBF_PH_5_7",
+            "Localized": "Hot Pink Flat Cap"
+        },
+        "8": {
+            "GXT": "CLO_SBF_PH_5_8",
+            "Localized": "Scarlet Flat Cap"
+        },
+        "9": {
+            "GXT": "CLO_SBF_PH_5_9",
+            "Localized": "Orange Flat Cap"
+        },
+        "10": {
+            "GXT": "CLO_SBF_PH_5_10",
+            "Localized": "Amber Flat Cap"
+        },
+        "11": {
+            "GXT": "CLO_SBF_PH_5_11",
+            "Localized": "Lemon Flat Cap"
+        },
+        "12": {
+            "GXT": "CLO_SBF_PH_5_12",
+            "Localized": "Royal Blue Flat Cap"
+        },
+        "13": {
+            "GXT": "CLO_SBF_PH_5_13",
+            "Localized": "Blue Flat Cap"
+        },
+        "14": {
+            "GXT": "CLO_SBF_PH_5_14",
+            "Localized": "Teal Flat Cap"
+        },
+        "15": {
+            "GXT": "CLO_SBF_PH_5_15",
+            "Localized": "Cyan Flat Cap"
+        },
+        "16": {
+            "GXT": "CLO_SBF_PH_5_16",
+            "Localized": "Light Blue Flat Cap"
+        },
+        "17": {
+            "GXT": "CLO_SBF_PH_5_17",
+            "Localized": "Lilac Flat Cap"
+        },
+        "18": {
+            "GXT": "CLO_SBF_PH_5_18",
+            "Localized": "Dark Green Flat Cap"
+        },
+        "19": {
+            "GXT": "CLO_SBF_PH_5_19",
+            "Localized": "Emerald Flat Cap"
+        },
+        "20": {
+            "GXT": "CLO_SBF_PH_5_20",
+            "Localized": "Moss Flat Cap"
+        },
+        "21": {
+            "GXT": "CLO_SBF_PH_5_21",
+            "Localized": "Lime Flat Cap"
+        },
+        "22": {
+            "GXT": "CLO_SBF_PH_5_22",
+            "Localized": "Peach Flat Cap"
+        },
+        "23": {
+            "GXT": "CLO_SBF_PH_5_23",
+            "Localized": "Lavender Flat Cap"
+        },
+        "24": {
+            "GXT": "CLO_SBF_PH_5_24",
+            "Localized": "Purple Flat Cap"
+        },
+        "25": {
+            "GXT": "CLO_SBF_PH_5_25",
+            "Localized": "Magenta Flat Cap"
+        }
+    },
+    "169": {
+        "0": {
+            "GXT": "CLO_SBF_PH_6_0",
+            "Localized": "Gray Yeti Flat Cap"
+        },
+        "1": {
+            "GXT": "CLO_SBF_PH_6_1",
+            "Localized": "Woodland Yeti Flat Cap"
+        },
+        "2": {
+            "GXT": "CLO_SBF_PH_6_2",
+            "Localized": "Green FB Flat Cap"
+        },
+        "3": {
+            "GXT": "CLO_SBF_PH_6_3",
+            "Localized": "Blue FB Flat Cap"
+        },
+        "4": {
+            "GXT": "CLO_SBF_PH_6_4",
+            "Localized": "Gray Lézard Flat Cap"
+        },
+        "5": {
+            "GXT": "CLO_SBF_PH_6_5",
+            "Localized": "Green Lézard Flat Cap"
+        },
+        "6": {
+            "GXT": "CLO_SBF_PH_6_6",
+            "Localized": "Light Plaid Lézard Flat Cap"
+        },
+        "7": {
+            "GXT": "CLO_SBF_PH_6_7",
+            "Localized": "Dark Plaid Lézard Flat Cap"
+        },
+        "8": {
+            "GXT": "CLO_SBF_PH_6_8",
+            "Localized": "White Striped Lézard Flat Cap"
+        },
+        "9": {
+            "GXT": "CLO_SBF_PH_6_9",
+            "Localized": "Red Striped Lézard Flat Cap"
+        },
+        "10": {
+            "GXT": "CLO_SBF_PH_6_10",
+            "Localized": "Brown Crevis Flat Cap"
+        },
+        "11": {
+            "GXT": "CLO_SBF_PH_6_11",
+            "Localized": "Gray Crevis Flat Cap"
+        },
+        "12": {
+            "GXT": "CLO_SBF_PH_6_12",
+            "Localized": "Black Broker Flat Cap"
+        },
+        "13": {
+            "GXT": "CLO_SBF_PH_6_13",
+            "Localized": "Burgundy Broker Flat Cap"
+        }
+    },
+    "170": {
+        "0": {
+            "GXT": "CLO_SBF_PH_7_0",
+            "Localized": "Glow Believe Backwards Cap"
+        }
+    },
+    "171": {
+        "0": {
+            "GXT": "CLO_SBF_PH_8_0",
+            "Localized": "Strickler Hat"
+        }
+    },
+    "172": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "173": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "174": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "175": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "176": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "177": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "2": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "3": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "4": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "5": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "6": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "7": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "8": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "178": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "179": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "180": {
+        "0": {
+            "GXT": "CLO_X6F_PH_0_0",
+            "Localized": "Black Trucker Forwards"
+        },
+        "1": {
+            "GXT": "CLO_X6F_PH_0_1",
+            "Localized": "Dark Gray Trucker Forwards"
+        },
+        "2": {
+            "GXT": "CLO_X6F_PH_0_2",
+            "Localized": "Gray Trucker Forwards"
+        },
+        "3": {
+            "GXT": "CLO_X6F_PH_0_3",
+            "Localized": "Ice Trucker Forwards"
+        },
+        "4": {
+            "GXT": "CLO_X6F_PH_0_4",
+            "Localized": "Beige Trucker Forwards"
+        },
+        "5": {
+            "GXT": "CLO_X6F_PH_0_5",
+            "Localized": "Chocolate Trucker Forwards"
+        },
+        "6": {
+            "GXT": "CLO_X6F_PH_0_6",
+            "Localized": "Burgundy Trucker Forwards"
+        },
+        "7": {
+            "GXT": "CLO_X6F_PH_0_7",
+            "Localized": "Hot Pink Trucker Forwards"
+        },
+        "8": {
+            "GXT": "CLO_X6F_PH_0_8",
+            "Localized": "Scarlet Trucker Forwards"
+        },
+        "9": {
+            "GXT": "CLO_X6F_PH_0_9",
+            "Localized": "Orange Trucker Forwards"
+        },
+        "10": {
+            "GXT": "CLO_X6F_PH_0_10",
+            "Localized": "Amber Trucker Forwards"
+        },
+        "11": {
+            "GXT": "CLO_X6F_PH_0_11",
+            "Localized": "Lemon Trucker Forwards"
+        },
+        "12": {
+            "GXT": "CLO_X6F_PH_0_12",
+            "Localized": "Royal Blue Trucker Forwards"
+        },
+        "13": {
+            "GXT": "CLO_X6F_PH_0_13",
+            "Localized": "Blue Trucker Forwards"
+        },
+        "14": {
+            "GXT": "CLO_X6F_PH_0_14",
+            "Localized": "Teal Trucker Forwards"
+        },
+        "15": {
+            "GXT": "CLO_X6F_PH_0_15",
+            "Localized": "Cyan Trucker Forwards"
+        },
+        "16": {
+            "GXT": "CLO_X6F_PH_0_16",
+            "Localized": "Light Blue Trucker Forwards"
+        },
+        "17": {
+            "GXT": "CLO_X6F_PH_0_17",
+            "Localized": "Lilac Trucker Forwards"
+        },
+        "18": {
+            "GXT": "CLO_X6F_PH_0_18",
+            "Localized": "Dark Green Trucker Forwards"
+        },
+        "19": {
+            "GXT": "CLO_X6F_PH_0_19",
+            "Localized": "Emerald Trucker Forwards"
+        },
+        "20": {
+            "GXT": "CLO_X6F_PH_0_20",
+            "Localized": "Moss Trucker Forwards"
+        },
+        "21": {
+            "GXT": "CLO_X6F_PH_0_21",
+            "Localized": "Lime Trucker Forwards"
+        },
+        "22": {
+            "GXT": "CLO_X6F_PH_0_22",
+            "Localized": "Peach Trucker Forwards"
+        },
+        "23": {
+            "GXT": "CLO_X6F_PH_0_23",
+            "Localized": "Lavender Trucker Forwards"
+        },
+        "24": {
+            "GXT": "CLO_X6F_PH_0_24",
+            "Localized": "Purple Trucker Forwards"
+        },
+        "25": {
+            "GXT": "CLO_X6F_PH_0_25",
+            "Localized": "Magenta Trucker Forwards"
+        }
+    },
+    "181": {
+        "0": {
+            "GXT": "CLO_X6F_PH_1_0",
+            "Localized": "Black Trucker Backwards"
+        },
+        "1": {
+            "GXT": "CLO_X6F_PH_1_1",
+            "Localized": "Dark Gray Trucker Backwards"
+        },
+        "2": {
+            "GXT": "CLO_X6F_PH_1_2",
+            "Localized": "Gray Trucker Backwards"
+        },
+        "3": {
+            "GXT": "CLO_X6F_PH_1_3",
+            "Localized": "Ice Trucker Backwards"
+        },
+        "4": {
+            "GXT": "CLO_X6F_PH_1_4",
+            "Localized": "Beige Trucker Backwards"
+        },
+        "5": {
+            "GXT": "CLO_X6F_PH_1_5",
+            "Localized": "Chocolate Trucker Backwards"
+        },
+        "6": {
+            "GXT": "CLO_X6F_PH_1_6",
+            "Localized": "Burgundy Trucker Backwards"
+        },
+        "7": {
+            "GXT": "CLO_X6F_PH_1_7",
+            "Localized": "Hot Pink Trucker Backwards"
+        },
+        "8": {
+            "GXT": "CLO_X6F_PH_1_8",
+            "Localized": "Scarlet Trucker Backwards"
+        },
+        "9": {
+            "GXT": "CLO_X6F_PH_1_9",
+            "Localized": "Orange Trucker Backwards"
+        },
+        "10": {
+            "GXT": "CLO_X6F_PH_1_10",
+            "Localized": "Amber Trucker Backwards"
+        },
+        "11": {
+            "GXT": "CLO_X6F_PH_1_11",
+            "Localized": "Lemon Trucker Backwards"
+        },
+        "12": {
+            "GXT": "CLO_X6F_PH_1_12",
+            "Localized": "Royal Blue Trucker Backwards"
+        },
+        "13": {
+            "GXT": "CLO_X6F_PH_1_13",
+            "Localized": "Blue Trucker Backwards"
+        },
+        "14": {
+            "GXT": "CLO_X6F_PH_1_14",
+            "Localized": "Teal Trucker Backwards"
+        },
+        "15": {
+            "GXT": "CLO_X6F_PH_1_15",
+            "Localized": "Cyan Trucker Backwards"
+        },
+        "16": {
+            "GXT": "CLO_X6F_PH_1_16",
+            "Localized": "Light Blue Trucker Backwards"
+        },
+        "17": {
+            "GXT": "CLO_X6F_PH_1_17",
+            "Localized": "Lilac Trucker Backwards"
+        },
+        "18": {
+            "GXT": "CLO_X6F_PH_1_18",
+            "Localized": "Dark Green Trucker Backwards"
+        },
+        "19": {
+            "GXT": "CLO_X6F_PH_1_19",
+            "Localized": "Emerald Trucker Backwards"
+        },
+        "20": {
+            "GXT": "CLO_X6F_PH_1_20",
+            "Localized": "Moss Trucker Backwards"
+        },
+        "21": {
+            "GXT": "CLO_X6F_PH_1_21",
+            "Localized": "Lime Trucker Backwards"
+        },
+        "22": {
+            "GXT": "CLO_X6F_PH_1_22",
+            "Localized": "Peach Trucker Backwards"
+        },
+        "23": {
+            "GXT": "CLO_X6F_PH_1_23",
+            "Localized": "Lavender Trucker Backwards"
+        },
+        "24": {
+            "GXT": "CLO_X6F_PH_1_24",
+            "Localized": "Purple Trucker Backwards"
+        },
+        "25": {
+            "GXT": "CLO_X6F_PH_1_25",
+            "Localized": "Magenta Trucker Backwards"
+        }
+    },
+    "182": {
+        "0": {
+            "GXT": "CLO_X6F_PH_2_0",
+            "Localized": "Black Wool Beanie"
+        },
+        "1": {
+            "GXT": "CLO_X6F_PH_2_1",
+            "Localized": "Dark Gray Wool Beanie"
+        },
+        "2": {
+            "GXT": "CLO_X6F_PH_2_2",
+            "Localized": "Gray Wool Beanie"
+        },
+        "3": {
+            "GXT": "CLO_X6F_PH_2_3",
+            "Localized": "Ice Wool Beanie"
+        },
+        "4": {
+            "GXT": "CLO_X6F_PH_2_4",
+            "Localized": "Beige Wool Beanie"
+        },
+        "5": {
+            "GXT": "CLO_X6F_PH_2_5",
+            "Localized": "Chocolate Wool Beanie"
+        },
+        "6": {
+            "GXT": "CLO_X6F_PH_2_6",
+            "Localized": "Burgundy Wool Beanie"
+        },
+        "7": {
+            "GXT": "CLO_X6F_PH_2_7",
+            "Localized": "Hot Pink Wool Beanie"
+        },
+        "8": {
+            "GXT": "CLO_X6F_PH_2_8",
+            "Localized": "Scarlet Wool Beanie"
+        },
+        "9": {
+            "GXT": "CLO_X6F_PH_2_9",
+            "Localized": "Orange Wool Beanie"
+        },
+        "10": {
+            "GXT": "CLO_X6F_PH_2_10",
+            "Localized": "Amber Wool Beanie"
+        },
+        "11": {
+            "GXT": "CLO_X6F_PH_2_11",
+            "Localized": "Lemon Wool Beanie"
+        },
+        "12": {
+            "GXT": "CLO_X6F_PH_2_12",
+            "Localized": "Royal Blue Wool Beanie"
+        },
+        "13": {
+            "GXT": "CLO_X6F_PH_2_13",
+            "Localized": "Blue Wool Beanie"
+        },
+        "14": {
+            "GXT": "CLO_X6F_PH_2_14",
+            "Localized": "Teal Wool Beanie"
+        },
+        "15": {
+            "GXT": "CLO_X6F_PH_2_15",
+            "Localized": "Cyan Wool Beanie"
+        },
+        "16": {
+            "GXT": "CLO_X6F_PH_2_16",
+            "Localized": "Light Blue Wool Beanie"
+        },
+        "17": {
+            "GXT": "CLO_X6F_PH_2_17",
+            "Localized": "Lilac Wool Beanie"
+        },
+        "18": {
+            "GXT": "CLO_X6F_PH_2_18",
+            "Localized": "Dark Green Wool Beanie"
+        },
+        "19": {
+            "GXT": "CLO_X6F_PH_2_19",
+            "Localized": "Emerald Wool Beanie"
+        },
+        "20": {
+            "GXT": "CLO_X6F_PH_2_20",
+            "Localized": "Moss Wool Beanie"
+        },
+        "21": {
+            "GXT": "CLO_X6F_PH_2_21",
+            "Localized": "Lime Wool Beanie"
+        },
+        "22": {
+            "GXT": "CLO_X6F_PH_2_22",
+            "Localized": "Peach Wool Beanie"
+        },
+        "23": {
+            "GXT": "CLO_X6F_PH_2_23",
+            "Localized": "Lavender Wool Beanie"
+        },
+        "24": {
+            "GXT": "CLO_X6F_PH_2_24",
+            "Localized": "Purple Wool Beanie"
+        },
+        "25": {
+            "GXT": "CLO_X6F_PH_2_25",
+            "Localized": "Magenta Wool Beanie"
+        }
+    },
+    "183": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "184": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "185": {
+        "0": {
+            "GXT": "CLO_X6F_PH_5_0",
+            "Localized": "Yellow Holly Beer Hat"
+        },
+        "1": {
+            "GXT": "CLO_X6F_PH_5_1",
+            "Localized": "Green Reindeer Beer Hat"
+        }
+    },
+    "186": {
+        "0": {
+            "GXT": "CLO_X6F_PH_6_0",
+            "Localized": "Zebra Dome"
+        }
+    },
+    "187": {
+        "0": {
+            "GXT": "CLO_X6F_PH_7_0",
+            "Localized": "Purple Snakeskin Spiked"
+        }
+    },
+    "188": {
+        "0": {
+            "GXT": "CLO_X6F_PH_8_0",
+            "Localized": "Zebra Bigness Forwards"
+        },
+        "1": {
+            "GXT": "CLO_X6F_PH_8_1",
+            "Localized": "Pink Zebra Bigness Forwards"
+        },
+        "2": {
+            "GXT": "CLO_X6F_PH_8_2",
+            "Localized": "Magenta Leopard Güffy Forwards"
+        },
+        "3": {
+            "GXT": "CLO_X6F_PH_8_3",
+            "Localized": "Cyan Leopard Güffy Forwards"
+        },
+        "4": {
+            "GXT": "CLO_X6F_PH_8_4",
+            "Localized": "Moss Leopard Güffy Forwards"
+        },
+        "5": {
+            "GXT": "CLO_X6F_PH_8_5",
+            "Localized": "Pink Script Slab Forwards"
+        },
+        "6": {
+            "GXT": "CLO_X6F_PH_8_6",
+            "Localized": "Cyan Script Slab Forwards"
+        },
+        "7": {
+            "GXT": "CLO_X6F_PH_8_7",
+            "Localized": "Brown Script Slab Forwards"
+        },
+        "8": {
+            "GXT": "CLO_X6F_PH_8_8",
+            "Localized": "Neon Script Slab Forwards"
+        },
+        "9": {
+            "GXT": "CLO_X6F_PH_8_9",
+            "Localized": "Camo Roses Slab Forwards"
+        },
+        "10": {
+            "GXT": "CLO_X6F_PH_8_10",
+            "Localized": "Black Camo Roses Slab Forwards"
+        },
+        "11": {
+            "GXT": "CLO_X6F_PH_8_11",
+            "Localized": "White Leopard Slab Forwards"
+        },
+        "12": {
+            "GXT": "CLO_X6F_PH_8_12",
+            "Localized": "Blue Leopard Slab Forwards"
+        },
+        "13": {
+            "GXT": "CLO_X6F_PH_8_13",
+            "Localized": "Lime Leopard Slab Forwards"
+        },
+        "14": {
+            "GXT": "CLO_X6F_PH_8_14",
+            "Localized": "Blue Slab Forwards"
+        },
+        "15": {
+            "GXT": "CLO_X6F_PH_8_15",
+            "Localized": "Green Slab Forwards"
+        },
+        "16": {
+            "GXT": "CLO_X6F_PH_8_16",
+            "Localized": "Light Blue Slab Forwards"
+        },
+        "17": {
+            "GXT": "CLO_X6F_PH_8_17",
+            "Localized": "Pink Slab Forwards"
+        },
+        "18": {
+            "GXT": "CLO_X6F_PH_8_18",
+            "Localized": "Red Slab Forwards"
+        },
+        "19": {
+            "GXT": "CLO_X6F_PH_8_19",
+            "Localized": "White Slab Forwards"
+        },
+        "20": {
+            "GXT": "CLO_X6F_PH_8_20",
+            "Localized": "Blue Bones Slab Forwards"
+        },
+        "21": {
+            "GXT": "CLO_X6F_PH_8_21",
+            "Localized": "Black Bones Slab Forwards"
+        },
+        "22": {
+            "GXT": "CLO_X6F_PH_8_22",
+            "Localized": "Red Bones Slab Forwards"
+        },
+        "23": {
+            "GXT": "CLO_X6F_PH_8_23",
+            "Localized": "Taupe Bones Slab Forwards"
+        },
+        "24": {
+            "GXT": "CLO_X6F_PH_8_24",
+            "Localized": "Black Sloped Slab Forwards"
+        },
+        "25": {
+            "GXT": "CLO_X6F_PH_8_25",
+            "Localized": "Green Sloped Slab Forwards"
+        }
+    },
+    "189": {
+        "0": {
+            "GXT": "CLO_X6F_PH_9_0",
+            "Localized": "Neon Sloped Slab Forwards"
+        },
+        "1": {
+            "GXT": "CLO_X6F_PH_9_1",
+            "Localized": "Blue Signs Squash Forwards"
+        },
+        "2": {
+            "GXT": "CLO_X6F_PH_9_2",
+            "Localized": "White Signs Squash Forwards"
+        }
+    },
+    "190": {
+        "0": {
+            "GXT": "CLO_X6F_PH_10_0",
+            "Localized": "Zebra Bigness Backwards"
+        },
+        "1": {
+            "GXT": "CLO_X6F_PH_10_1",
+            "Localized": "Pink Zebra Bigness Backwards"
+        },
+        "2": {
+            "GXT": "CLO_X6F_PH_10_2",
+            "Localized": "Magenta Leopard Güffy Backwards"
+        },
+        "3": {
+            "GXT": "CLO_X6F_PH_10_3",
+            "Localized": "Cyan Leopard Güffy Backwards"
+        },
+        "4": {
+            "GXT": "CLO_X6F_PH_10_4",
+            "Localized": "Moss Leopard Güffy Backwards"
+        },
+        "5": {
+            "GXT": "CLO_X6F_PH_10_5",
+            "Localized": "Pink Script Slab Backwards"
+        },
+        "6": {
+            "GXT": "CLO_X6F_PH_10_6",
+            "Localized": "Cyan Script Slab Backwards"
+        },
+        "7": {
+            "GXT": "CLO_X6F_PH_10_7",
+            "Localized": "Brown Script Slab Backwards"
+        },
+        "8": {
+            "GXT": "CLO_X6F_PH_10_8",
+            "Localized": "Neon Script Slab Backwards"
+        },
+        "9": {
+            "GXT": "CLO_X6F_PH_10_9",
+            "Localized": "Camo Roses Slab Backwards"
+        },
+        "10": {
+            "GXT": "CLO_X6F_PH_1010",
+            "Localized": "Black Camo Roses Slab Backwards"
+        },
+        "11": {
+            "GXT": "CLO_X6F_PH_1011",
+            "Localized": "White Leopard Slab Backwards"
+        },
+        "12": {
+            "GXT": "CLO_X6F_PH_1012",
+            "Localized": "Blue Leopard Slab Backwards"
+        },
+        "13": {
+            "GXT": "CLO_X6F_PH_1013",
+            "Localized": "Lime Leopard Slab Backwards"
+        },
+        "14": {
+            "GXT": "CLO_X6F_PH_1014",
+            "Localized": "Blue Slab Backwards"
+        },
+        "15": {
+            "GXT": "CLO_X6F_PH_1015",
+            "Localized": "Green Slab Backwards"
+        },
+        "16": {
+            "GXT": "CLO_X6F_PH_1016",
+            "Localized": "Light Blue Slab Backwards"
+        },
+        "17": {
+            "GXT": "CLO_X6F_PH_1017",
+            "Localized": "Pink Slab Backwards"
+        },
+        "18": {
+            "GXT": "CLO_X6F_PH_1018",
+            "Localized": "Red Slab Backwards"
+        },
+        "19": {
+            "GXT": "CLO_X6F_PH_1019",
+            "Localized": "White Slab Backwards"
+        },
+        "20": {
+            "GXT": "CLO_X6F_PH_1020",
+            "Localized": "Blue Bones Slab Backwards"
+        },
+        "21": {
+            "GXT": "CLO_X6F_PH_1021",
+            "Localized": "Black Bones Slab Backwards"
+        },
+        "22": {
+            "GXT": "CLO_X6F_PH_1022",
+            "Localized": "Red Bones Slab Backwards"
+        },
+        "23": {
+            "GXT": "CLO_X6F_PH_1023",
+            "Localized": "Taupe Bones Slab Backwards"
+        },
+        "24": {
+            "GXT": "CLO_X6F_PH_1024",
+            "Localized": "Black Sloped Slab Backwards"
+        },
+        "25": {
+            "GXT": "CLO_X6F_PH_1025",
+            "Localized": "Green Sloped Slab Backwards"
+        }
+    },
+    "191": {
+        "0": {
+            "GXT": "CLO_X6F_PH_11_0",
+            "Localized": "Neon Sloped Slab Backwards"
+        },
+        "1": {
+            "GXT": "CLO_X6F_PH_11_1",
+            "Localized": "Blue Signs Squash Backwards"
+        },
+        "2": {
+            "GXT": "CLO_X6F_PH_11_2",
+            "Localized": "White Signs Squash Backwards"
+        }
+    },
+    "192": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "193": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "194": {
+        "0": {
+            "GXT": "CLO_SCF_PH_0_0",
+            "Localized": "LS Pounders Cap"
+        }
+    },
+    "195": {
+        "0": {
+            "GXT": "CLO_SCF_PH_1_0",
+            "Localized": "LS Pounders Cap"
+        }
+    },
+    "196": {
+        "0": {
+            "GXT": "CLO_SCF_PH_2_0",
+            "Localized": "Alpine Hat"
+        }
+    },
+    "197": {
+        "0": {
+            "GXT": "CLO_SCF_PH_3_0",
+            "Localized": "LS Car Meet Cap"
+        },
+        "1": {
+            "GXT": "CLO_SCF_PH_3_1",
+            "Localized": "VIP Charter Jets Cap"
+        },
+        "2": {
+            "GXT": "CLO_SCF_PH_3_2",
+            "Localized": "Cliffford Cap"
+        },
+        "3": {
+            "GXT": "CLO_SCF_PH_3_3",
+            "Localized": "Maisonette Cap"
+        },
+        "4": {
+            "GXT": "CLO_SCF_PH_3_4",
+            "Localized": "Rootin' Tootin' Cap"
+        },
+        "5": {
+            "GXT": "CLO_SCF_PH_3_5",
+            "Localized": "LS Angels Cap"
+        },
+        "6": {
+            "GXT": "CLO_SCF_PH_3_6",
+            "Localized": "IAA Cap"
+        },
+        "7": {
+            "GXT": "CLO_SCF_PH_3_7",
+            "Localized": "Captain Cap"
+        },
+        "8": {
+            "GXT": "CLO_SCF_PH_3_8",
+            "Localized": "PDM Cap"
+        },
+        "9": {
+            "GXT": "CLO_SCF_PH_3_9",
+            "Localized": "Flying Bravo Andreas Cap"
+        },
+        "10": {
+            "GXT": "CLO_SCF_PH_3_10",
+            "Localized": "Green LS Cap"
+        },
+        "11": {
+            "GXT": "CLO_SCF_PH_3_11",
+            "Localized": "Peter Cap"
+        },
+        "12": {
+            "GXT": "CLO_SCF_PH_3_12",
+            "Localized": "Survivalist Cap"
+        },
+        "13": {
+            "GXT": "CLO_SCF_PH_3_13",
+            "Localized": "Grotti Furia Cap"
+        },
+        "14": {
+            "GXT": "CLO_SCF_PH_3_14",
+            "Localized": "Black Eagle Cap"
+        },
+        "15": {
+            "GXT": "CLO_SCF_PH_3_15",
+            "Localized": "Deathmatch Cap"
+        }
+    },
+    "198": {
+        "0": {
+            "GXT": "CLO_SCF_PH_4_0",
+            "Localized": "LS Car Meet Cap"
+        },
+        "1": {
+            "GXT": "CLO_SCF_PH_4_1",
+            "Localized": "VIP Charter Jets Cap"
+        },
+        "2": {
+            "GXT": "CLO_SCF_PH_4_2",
+            "Localized": "Cliffford Logo Cap"
+        },
+        "3": {
+            "GXT": "CLO_SCF_PH_4_3",
+            "Localized": "Maisonette Cap"
+        },
+        "4": {
+            "GXT": "CLO_SCF_PH_4_4",
+            "Localized": "Rootin' Tootin' Cap"
+        },
+        "5": {
+            "GXT": "CLO_SCF_PH_4_5",
+            "Localized": "LS Angels Cap"
+        },
+        "6": {
+            "GXT": "CLO_SCF_PH_4_6",
+            "Localized": "IAA Cap"
+        },
+        "7": {
+            "GXT": "CLO_SCF_PH_4_7",
+            "Localized": "Captain Cap"
+        },
+        "8": {
+            "GXT": "CLO_SCF_PH_4_8",
+            "Localized": "PDM Cap"
+        },
+        "9": {
+            "GXT": "CLO_SCF_PH_4_9",
+            "Localized": "Flying Bravo Cap"
+        },
+        "10": {
+            "GXT": "CLO_SCF_PH_4_10",
+            "Localized": "Green LS Cap"
+        },
+        "11": {
+            "GXT": "CLO_SCF_PH_4_11",
+            "Localized": "Peter Cap"
+        },
+        "12": {
+            "GXT": "CLO_SCF_PH_4_12",
+            "Localized": "Survivalist Cap"
+        },
+        "13": {
+            "GXT": "CLO_SCF_PH_4_13",
+            "Localized": "Grotti Furia Cap"
+        },
+        "14": {
+            "GXT": "CLO_SCF_PH_4_14",
+            "Localized": "Black Eagle Cap"
+        },
+        "15": {
+            "GXT": "CLO_SCF_PH_4_15",
+            "Localized": "Deathmatch Cap"
+        }
+    },
+    "199": {
+        "0": {
+            "GXT": "CLO_SCF_PH_5_0",
+            "Localized": "Vom Feuer Camo Cap"
+        },
+        "1": {
+            "GXT": "CLO_SCF_PH_5_1",
+            "Localized": "Western MC Cap"
+        },
+        "2": {
+            "GXT": "CLO_SCF_PH_5_2",
+            "Localized": "Red & White Ammu-Nation Cap"
+        },
+        "3": {
+            "GXT": "CLO_SCF_PH_5_3",
+            "Localized": "Santo Capra Cap"
+        }
+    },
+    "200": {
+        "0": {
+            "GXT": "CLO_SCF_PH_6_0",
+            "Localized": "Vom Feuer Camo Cap"
+        },
+        "1": {
+            "GXT": "CLO_SCF_PH_6_1",
+            "Localized": "Western MC Cap"
+        },
+        "2": {
+            "GXT": "CLO_SCF_PH_6_2",
+            "Localized": "Red & White Ammu-Nation Cap"
+        },
+        "3": {
+            "GXT": "CLO_SCF_PH_6_3",
+            "Localized": "Santo Capra Cap"
+        }
+    },
+    "201": {
+        "0": {
+            "GXT": "CLO_SCF_PH_7_0",
+            "Localized": "Junk Energy Helmet"
+        }
+    },
+    "202": {
+        "0": {
+            "GXT": "CLO_X7F_PH_0_0",
+            "Localized": "Rockstar Helmet"
+        }
+    },
+    "203": {
+        "0": {
+            "GXT": "CLO_X7F_PH_0_0",
+            "Localized": "Rockstar Helmet"
+        }
+    },
+    "204": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "205": {
+        "0": {
+            "GXT": "CLO_X7F_PH_3_0",
+            "Localized": "Fireworks Bucket Hat"
+        },
+        "1": {
+            "GXT": "CLO_X7F_PH_3_1",
+            "Localized": "Stars and Stripes Bucket Hat"
+        },
+        "2": {
+            "GXT": "CLO_X7F_PH_3_2",
+            "Localized": "Lady Liberty Bucket Hat"
+        },
+        "3": {
+            "GXT": "CLO_X7F_PH_3_3",
+            "Localized": "Bigness Carnival Bucket Hat"
+        }
+    },
+    "206": {
+        "0": {
+            "GXT": "CLO_X7F_PH_4_0",
+            "Localized": "CMYK Glitch HSW Helmet"
+        },
+        "1": {
+            "GXT": "CLO_X7F_PH_4_1",
+            "Localized": "Sunset Glitch HSW Helmet"
+        },
+        "2": {
+            "GXT": "CLO_X7F_PH_4_2",
+            "Localized": "Vibrant Pixel HSW Helmet"
+        },
+        "3": {
+            "GXT": "CLO_X7F_PH_4_3",
+            "Localized": "Cool Pixel HSW Helmet"
+        },
+        "4": {
+            "GXT": "CLO_X7F_PH_4_4",
+            "Localized": "Bright Noise HSW Helmet"
+        },
+        "5": {
+            "GXT": "CLO_X7F_PH_4_5",
+            "Localized": "Cool Noise HSW Helmet"
+        },
+        "6": {
+            "GXT": "CLO_X7F_PH_4_6",
+            "Localized": "Red Geo HSW Helmet"
+        },
+        "7": {
+            "GXT": "CLO_X7F_PH_4_7",
+            "Localized": "Yellow Geo HSW Helmet"
+        },
+        "8": {
+            "GXT": "CLO_X7F_PH_4_8",
+            "Localized": "Orange Trip HSW Helmet"
+        },
+        "9": {
+            "GXT": "CLO_X7F_PH_4_9",
+            "Localized": "Blue Trip HSW Helmet"
+        },
+        "10": {
+            "GXT": "CLO_X7F_PH_4_10",
+            "Localized": "Bold Shock HSW Helmet"
+        },
+        "11": {
+            "GXT": "CLO_X7F_PH_4_11",
+            "Localized": "Vibrant Shock HSW Helmet"
+        },
+        "12": {
+            "GXT": "CLO_X7F_PH_4_12",
+            "Localized": "Vivid Torn HSW Helmet"
+        },
+        "13": {
+            "GXT": "CLO_X7F_PH_4_13",
+            "Localized": "Neon Torn HSW Helmet"
+        },
+        "14": {
+            "GXT": "CLO_X7F_PH_4_14",
+            "Localized": "Warm Warped HSW Helmet"
+        },
+        "15": {
+            "GXT": "CLO_X7F_PH_4_15",
+            "Localized": "Wild Warped HSW Helmet"
+        }
+    },
+    "207": {
+        "0": {
+            "GXT": "CLO_X7F_PH_4_0",
+            "Localized": "CMYK Glitch HSW Helmet"
+        },
+        "1": {
+            "GXT": "CLO_X7F_PH_4_1",
+            "Localized": "Sunset Glitch HSW Helmet"
+        },
+        "2": {
+            "GXT": "CLO_X7F_PH_4_2",
+            "Localized": "Vibrant Pixel HSW Helmet"
+        },
+        "3": {
+            "GXT": "CLO_X7F_PH_4_3",
+            "Localized": "Cool Pixel HSW Helmet"
+        },
+        "4": {
+            "GXT": "CLO_X7F_PH_4_4",
+            "Localized": "Bright Noise HSW Helmet"
+        },
+        "5": {
+            "GXT": "CLO_X7F_PH_4_5",
+            "Localized": "Cool Noise HSW Helmet"
+        },
+        "6": {
+            "GXT": "CLO_X7F_PH_4_6",
+            "Localized": "Red Geo HSW Helmet"
+        },
+        "7": {
+            "GXT": "CLO_X7F_PH_4_7",
+            "Localized": "Yellow Geo HSW Helmet"
+        },
+        "8": {
+            "GXT": "CLO_X7F_PH_4_8",
+            "Localized": "Orange Trip HSW Helmet"
+        },
+        "9": {
+            "GXT": "CLO_X7F_PH_4_9",
+            "Localized": "Blue Trip HSW Helmet"
+        },
+        "10": {
+            "GXT": "CLO_X7F_PH_4_10",
+            "Localized": "Bold Shock HSW Helmet"
+        },
+        "11": {
+            "GXT": "CLO_X7F_PH_4_11",
+            "Localized": "Vibrant Shock HSW Helmet"
+        },
+        "12": {
+            "GXT": "CLO_X7F_PH_4_12",
+            "Localized": "Vivid Torn HSW Helmet"
+        },
+        "13": {
+            "GXT": "CLO_X7F_PH_4_13",
+            "Localized": "Neon Torn HSW Helmet"
+        },
+        "14": {
+            "GXT": "CLO_X7F_PH_4_14",
+            "Localized": "Warm Warped HSW Helmet"
+        },
+        "15": {
+            "GXT": "CLO_X7F_PH_4_15",
+            "Localized": "Wild Warped HSW Helmet"
+        }
+    },
+    "208": {
+        "0": {
+            "GXT": "CLO_X7F_PH_6_0",
+            "Localized": "Black Los Santos Forwards Cap"
+        },
+        "1": {
+            "GXT": "CLO_X7F_PH_6_1",
+            "Localized": "Black LS Customs Forwards Cap"
+        }
+    },
+    "209": {
+        "0": {
+            "GXT": "CLO_X7F_PH_7_0",
+            "Localized": "Black Los Santos Backwards Cap"
+        },
+        "1": {
+            "GXT": "CLO_X7F_PH_7_1",
+            "Localized": "Black LS Customs Backwards Cap"
+        }
+    },
+    "210": {
+        "0": {
+            "GXT": "CLO_X7F_PH_8_0",
+            "Localized": "Brown Festive Reindeer Hat"
+        },
+        "1": {
+            "GXT": "CLO_X7F_PH_8_1",
+            "Localized": "White Festive Reindeer Hat"
+        }
+    },
+    "211": {
+        "0": {
+            "GXT": "CLO_X7F_PH_9_0",
+            "Localized": "Green Festive Tree Hat"
+        },
+        "1": {
+            "GXT": "CLO_X7F_PH_9_1",
+            "Localized": "Red Festive Tree Hat"
+        }
+    },
+    "212": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "2": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "3": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "213": {
+        "0": {
+            "GXT": "CLO_X7F_PH_11_0",
+            "Localized": "1 Party Hat"
+        },
+        "1": {
+            "GXT": "CLO_X7F_PH_11_1",
+            "Localized": "2 Party Hat"
+        },
+        "2": {
+            "GXT": "CLO_X7F_PH_11_2",
+            "Localized": "3 Party Hat"
+        },
+        "3": {
+            "GXT": "CLO_X7F_PH_11_3",
+            "Localized": "4 Party Hat"
+        },
+        "4": {
+            "GXT": "CLO_X7F_PH_11_4",
+            "Localized": "5 Party Hat"
+        },
+        "5": {
+            "GXT": "CLO_X7F_PH_11_5",
+            "Localized": "6 Party Hat"
+        },
+        "6": {
+            "GXT": "CLO_X7F_PH_11_6",
+            "Localized": "7 Party Hat"
+        },
+        "7": {
+            "GXT": "CLO_X7F_PH_11_7",
+            "Localized": "8 Party Hat"
+        },
+        "8": {
+            "GXT": "CLO_X7F_PH_11_8",
+            "Localized": "9 Party Hat"
+        },
+        "9": {
+            "GXT": "CLO_X7F_PH_11_9",
+            "Localized": "10 Party Hat"
+        },
+        "10": {
+            "GXT": "CLO_X7F_PH_1110",
+            "Localized": "11 Party Hat"
+        },
+        "11": {
+            "GXT": "CLO_X7F_PH_1111",
+            "Localized": "12 Party Hat"
+        },
+        "12": {
+            "GXT": "CLO_X7F_PH_1112",
+            "Localized": "13 Party Hat"
+        },
+        "13": {
+            "GXT": "CLO_X7F_PH_1113",
+            "Localized": "14 Party Hat"
+        },
+        "14": {
+            "GXT": "CLO_X7F_PH_1114",
+            "Localized": "15 Party Hat"
+        }
+    },
+    "214": {
+        "0": {
+            "GXT": "CLO_X7F_PH_12_0",
+            "Localized": "Heartbreakers Forwards Cap"
+        },
+        "1": {
+            "GXT": "CLO_X7F_PH_12_1",
+            "Localized": "Red's Cap"
+        }
+    },
+    "215": {
+        "0": {
+            "GXT": "CLO_X7F_PH_13_0",
+            "Localized": "Heartbreakers Backwards Cap"
+        },
+        "1": {
+            "GXT": "CLO_X7F_PH_13_1",
+            "Localized": "Red's Cap"
+        }
+    },
+    "216": {
+        "0": {
+            "GXT": "CLO_X7F_PH_14_0",
+            "Localized": "Bronze New Year's Hat"
+        },
+        "1": {
+            "GXT": "CLO_X7F_PH_14_1",
+            "Localized": "Gold New Year's Hat"
+        },
+        "2": {
+            "GXT": "CLO_X7F_PH_14_2",
+            "Localized": "Silver New Year's Hat"
+        }
+    },
+    "217": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "2": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "3": {
+            "GXT": "CLO_X7F_PH_15_3",
+            "Localized": "Strapz Cap"
+        },
+        "4": {
+            "GXT": "CLO_X7F_PH_15_4",
+            "Localized": "Black 420 Forwards Cap"
+        }
+    },
+    "218": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "2": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "3": {
+            "GXT": "CLO_X7F_PH_16_3",
+            "Localized": "Strapz Cap"
+        },
+        "4": {
+            "GXT": "CLO_X7F_PH_16_4",
+            "Localized": "Black 420 Backwards Cap"
+        }
+    },
+    "219": {
+        "0": {
+            "GXT": "CLO_X7F_PH_17_0",
+            "Localized": "Cluckin' Bell Forwards Cap"
+        }
+    },
+    "220": {
+        "0": {
+            "GXT": "CLO_X7F_PH_18_0",
+            "Localized": "Cluckin' Bell Backwards Cap"
+        }
+    },
+    "221": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "222": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "223": {
+        "0": {
+            "GXT": "CLO_SDF_PH_2_0",
+            "Localized": "Beige Straw Sun Hat"
+        },
+        "1": {
+            "GXT": "CLO_SDF_PH_2_1",
+            "Localized": "Cream Straw Sun Hat"
+        },
+        "2": {
+            "GXT": "CLO_SDF_PH_2_2",
+            "Localized": "Gray Straw Sun Hat"
+        },
+        "3": {
+            "GXT": "CLO_SDF_PH_2_3",
+            "Localized": "Black Straw Sun Hat"
+        }
+    },
+    "224": {
+        "0": {
+            "GXT": "CLO_SDF_PH_3_0",
+            "Localized": "Pizza This... Forwards Cap"
+        }
+    },
+    "225": {
+        "0": {
+            "GXT": "CLO_SDF_PH_4_0",
+            "Localized": "Pizza This... Backwards Cap"
+        }
+    },
+    "226": {
+        "0": {
+            "GXT": "CLO_SDF_PH_5_0",
+            "Localized": "Brown Alpine Hat"
+        }
+    },
+    "227": {
+        "0": {
+            "GXT": "CLO_SDF_PH_6_0",
+            "Localized": "Zebra Bigness Bucket"
+        },
+        "1": {
+            "GXT": "CLO_SDF_PH_6_1",
+            "Localized": "Pink Zebra Bigness Bucket"
+        },
+        "2": {
+            "GXT": "CLO_SDF_PH_6_2",
+            "Localized": "Black Cimicino Bucket"
+        },
+        "3": {
+            "GXT": "CLO_SDF_PH_6_3",
+            "Localized": "White Cimicino Bucket"
+        },
+        "4": {
+            "GXT": "CLO_SDF_PH_6_4",
+            "Localized": "Green FB Bucket"
+        },
+        "5": {
+            "GXT": "CLO_SDF_PH_6_5",
+            "Localized": "Blue FB Bucket"
+        },
+        "6": {
+            "GXT": "CLO_SDF_PH_6_6",
+            "Localized": "Red FB Bucket"
+        },
+        "7": {
+            "GXT": "CLO_SDF_PH_6_7",
+            "Localized": "Black Güffy Bucket"
+        },
+        "8": {
+            "GXT": "CLO_SDF_PH_6_8",
+            "Localized": "White Güffy Bucket"
+        },
+        "9": {
+            "GXT": "CLO_SDF_PH_6_9",
+            "Localized": "Cyan Leopard Güffy Bucket"
+        },
+        "10": {
+            "GXT": "CLO_SDF_PH_6_10",
+            "Localized": "Krapea Bucket"
+        },
+        "11": {
+            "GXT": "CLO_SDF_PH_6_11",
+            "Localized": "Black LC Bucket"
+        },
+        "12": {
+            "GXT": "CLO_SDF_PH_6_12",
+            "Localized": "White LC Bucket"
+        },
+        "13": {
+            "GXT": "CLO_SDF_PH_6_13",
+            "Localized": "Purple Panic Bucket"
+        },
+        "14": {
+            "GXT": "CLO_SDF_PH_6_14",
+            "Localized": "Yellow Panic Bucket"
+        },
+        "15": {
+            "GXT": "CLO_SDF_PH_6_15",
+            "Localized": "Black SC Coin Bucket"
+        },
+        "16": {
+            "GXT": "CLO_SDF_PH_6_16",
+            "Localized": "Blue SC Coin Bucket"
+        },
+        "17": {
+            "GXT": "CLO_SDF_PH_6_17",
+            "Localized": "Pink SC Coin Bucket"
+        },
+        "18": {
+            "GXT": "CLO_SDF_PH_6_18",
+            "Localized": "Camo Yeti Bucket"
+        },
+        "19": {
+            "GXT": "CLO_SDF_PH_6_19",
+            "Localized": "Gray Camo Yeti Bucket"
+        },
+        "20": {
+            "GXT": "CLO_SDF_PH_6_20",
+            "Localized": "Pink Camo Yeti Bucket"
+        }
+    },
+    "228": {
+        "0": {
+            "GXT": "CLO_X8F_PH_0_0",
+            "Localized": "Highway Patrol Helmet"
+        },
+        "1": {
+            "GXT": "CLO_X8F_PH_0_1",
+            "Localized": "Highway Patrol Helmet"
+        }
+    },
+    "229": {
+        "0": {
+            "GXT": "CLO_X8F_PH_1_0",
+            "Localized": "Park Ranger Cap"
+        }
+    },
+    "230": {
+        "0": {
+            "GXT": "CLO_X8F_PH_2_0",
+            "Localized": "LD Organics 420 Forwards Cap"
+        }
+    },
+    "231": {
+        "0": {
+            "GXT": "CLO_X8F_PH_3_0",
+            "Localized": "LD Organics 420 Backwards Cap"
+        }
+    },
+    "232": {
+        "0": {
+            "GXT": "CLO_X8F_PH_4_0",
+            "Localized": "LS Panic Varsity Cap"
+        }
+    },
+    "233": {
+        "0": {
+            "GXT": "CLO_X8F_PH_5_0",
+            "Localized": "LS Panic Varsity Cap"
+        }
+    },
+    "234": {
+        "0": {
+            "GXT": "CLO_X8F_PH_6_0",
+            "Localized": "Gong Xi Fa Cai Forwards Cap"
+        },
+        "1": {
+            "GXT": "CLO_X8F_PH_6_1",
+            "Localized": "Red Snake Soul Forwards Cap"
+        },
+        "2": {
+            "GXT": "CLO_X8F_PH_6_2",
+            "Localized": "Gray Snake King Forwards Cap"
+        }
+    },
+    "235": {
+        "0": {
+            "GXT": "CLO_X8F_PH_7_0",
+            "Localized": "Gong Xi Fa Cai Backwards Cap"
+        },
+        "1": {
+            "GXT": "CLO_X8F_PH_7_1",
+            "Localized": "Red Snake Soul Backwards Cap"
+        },
+        "2": {
+            "GXT": "CLO_X8F_PH_7_2",
+            "Localized": "Gray Snake King Backwards Cap"
+        }
+    },
+    "236": {
+        "0": {
+            "GXT": "CLO_X8F_PH_8_0",
+            "Localized": "Pavel's Garrison Cap"
+        }
+    },
+    "237": {
+        "0": {
+            "GXT": "CLO_X8F_PH_9_0",
+            "Localized": "Honkers Tie-Dye Hat"
+        }
+    },
+    "238": {
+        "0": {
+            "GXT": "CLO_X8F_PH_10_0",
+            "Localized": "Blue Two-Tone Denim Cowgirl Hat"
+        }
+    },
+    "239": {
+        "0": {
+            "GXT": "CLO_X8F_PH_11_0",
+            "Localized": "McKenzie Field Cap"
+        }
+    },
+    "240": {
+        "0": {
+            "GXT": "CLO_X8F_PH_12_0",
+            "Localized": "McKenzie Field Cap"
+        }
+    },
+    "241": {
+        "0": {
+            "GXT": "CLO_X8F_PH_13_0",
+            "Localized": "Green 420 Festival Hat"
+        },
+        "1": {
+            "GXT": "CLO_X8F_PH_13_1",
+            "Localized": "Multicolor 420 Festival Hat"
+        }
+    },
+    "242": {
+        "0": {
+            "GXT": "CLO_X8F_PH_14_0",
+            "Localized": "Black Barfs Beanie"
+        },
+        "1": {
+            "GXT": "CLO_X8F_PH_14_1",
+            "Localized": "PRB Sword Boy Beanie"
+        },
+        "2": {
+            "GXT": "CLO_X8F_PH_14_2",
+            "Localized": "PRB Princess Beanie"
+        },
+        "3": {
+            "GXT": "CLO_X8F_PH_14_3",
+            "Localized": "PRB Wasabi Kitty Beanie"
+        },
+        "4": {
+            "GXT": "CLO_X8F_PH_14_4",
+            "Localized": "Green Vomit Barfs Beanie"
+        },
+        "5": {
+            "GXT": "CLO_X8F_PH_14_5",
+            "Localized": "Black Turbo Güffy Beanie"
+        },
+        "6": {
+            "GXT": "CLO_X8F_PH_14_6",
+            "Localized": "White Turbo Güffy Beanie"
+        },
+        "7": {
+            "GXT": "CLO_X8F_PH_14_7",
+            "Localized": "PRB Master Hentai Beanie"
+        },
+        "8": {
+            "GXT": "CLO_X8F_PH_14_8",
+            "Localized": "PRB Humpy Beanie"
+        },
+        "9": {
+            "GXT": "CLO_X8F_PH_14_9",
+            "Localized": "Burgundy Vomit Barfs Beanie"
+        },
+        "10": {
+            "GXT": "CLO_X8F_PH_1410",
+            "Localized": "White Barfs Beanie"
+        }
+    },
+    "243": {
+        "0": {
+            "GXT": "CLO_X8F_PH_15_0",
+            "Localized": "Lilac Leopard Bigness Forwards"
+        },
+        "1": {
+            "GXT": "CLO_X8F_PH_15_1",
+            "Localized": "Orange Leopard Bigness Forwards"
+        },
+        "2": {
+            "GXT": "CLO_X8F_PH_15_2",
+            "Localized": "Blue Leopard Bigness Forwards"
+        },
+        "3": {
+            "GXT": "CLO_X8F_PH_15_3",
+            "Localized": "Orange Leopard Strapz Forwards"
+        },
+        "4": {
+            "GXT": "CLO_X8F_PH_15_4",
+            "Localized": "Blue Leopard Strapz Forwards"
+        },
+        "5": {
+            "GXT": "CLO_X8F_PH_15_5",
+            "Localized": "Pink Camo Yeti Forwards"
+        },
+        "6": {
+            "GXT": "CLO_X8F_PH_15_6",
+            "Localized": "Gray Camo Yeti Forwards"
+        },
+        "7": {
+            "GXT": "CLO_X8F_PH_15_7",
+            "Localized": "Woodland Camo Yeti Forwards"
+        },
+        "8": {
+            "GXT": "CLO_X8F_PH_15_8",
+            "Localized": "Blue Zebra Heat Forwards"
+        },
+        "9": {
+            "GXT": "CLO_X8F_PH_15_9",
+            "Localized": "Black Zebra Heat Forwards"
+        }
+    },
+    "244": {
+        "0": {
+            "GXT": "CLO_X8F_PH_16_0",
+            "Localized": "Lilac Leopard Bigness Backwards"
+        },
+        "1": {
+            "GXT": "CLO_X8F_PH_16_1",
+            "Localized": "Orange Leopard Bigness Backwards"
+        },
+        "2": {
+            "GXT": "CLO_X8F_PH_16_2",
+            "Localized": "Blue Leopard Bigness Backwards"
+        },
+        "3": {
+            "GXT": "CLO_X8F_PH_16_3",
+            "Localized": "Orange Leopard Strapz Backwards"
+        },
+        "4": {
+            "GXT": "CLO_X8F_PH_16_4",
+            "Localized": "Blue Leopard Strapz Backwards"
+        },
+        "5": {
+            "GXT": "CLO_X8F_PH_16_5",
+            "Localized": "Pink Camo Yeti Backwards"
+        },
+        "6": {
+            "GXT": "CLO_X8F_PH_16_6",
+            "Localized": "Gray Camo Yeti Backwards"
+        },
+        "7": {
+            "GXT": "CLO_X8F_PH_16_7",
+            "Localized": "Woodland Camo Yeti Backwards"
+        },
+        "8": {
+            "GXT": "CLO_X8F_PH_16_8",
+            "Localized": "Blue Zebra Heat Backwards"
+        },
+        "9": {
+            "GXT": "CLO_X8F_PH_16_9",
+            "Localized": "Black Zebra Heat Backwards"
+        }
     }
 }

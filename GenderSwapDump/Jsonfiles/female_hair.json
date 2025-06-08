@@ -1300,5 +1300,53 @@
             "HairTattooCollection": 601646824,
             "HairTattooOverlay": -974054285
         }
+    },
+    "81": {
+        "0": {
+            "GXT": "CLO_SBF_H_0_0",
+            "Localized": "Short Tucked Bob",
+            "HairTattooCollection": 987639353,
+            "HairTattooOverlay": -606892013
+        }
+    },
+    "82": {
+        "0": {
+            "GXT": "CLO_SBF_H_1_0",
+            "Localized": "Shaggy Mullet",
+            "HairTattooCollection": 987639353,
+            "HairTattooOverlay": -1514684318
+        }
+    },
+    "83": {
+        "0": {
+            "GXT": "CLO_X6F_H_0_0",
+            "Localized": "Buzzcut",
+            "HairTattooCollection": 1841427399,
+            "HairTattooOverlay": 606012624
+        }
+    },
+    "84": {
+        "0": {
+            "GXT": "CLO_SCF_H_0_0",
+            "Localized": "Baby Braids",
+            "HairTattooCollection": 1310977332,
+            "HairTattooOverlay": -1943836948
+        }
+    },
+    "85": {
+        "0": {
+            "GXT": "CLO_X7F_H_0_0",
+            "Localized": "Knotless Braids",
+            "HairTattooCollection": 1099237437,
+            "HairTattooOverlay": 2123891426
+        }
+    },
+    "86": {
+        "0": {
+            "GXT": "CLO_X8F_H_0_0",
+            "Localized": "Shaggy Octopus",
+            "HairTattooCollection": -648258913,
+            "HairTattooOverlay": 1486011911
+        }
     }
 }

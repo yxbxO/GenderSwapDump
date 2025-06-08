@@ -1770,5 +1770,755 @@
             "GXT": "CLO_FXM_PE_5_11",
             "Localized": "Gold & Black Retro Round"
         }
+    },
+    "40": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "2": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "3": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "4": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "5": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "6": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "7": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "8": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "9": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "10": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "11": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "12": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "13": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "14": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "15": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "16": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "17": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "18": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "19": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "41": {
+        "0": {
+            "GXT": "CLO_SBM_PE_1_0",
+            "Localized": "Mono Tactical Goggles"
+        },
+        "1": {
+            "GXT": "CLO_SBM_PE_1_1",
+            "Localized": "Gray Tactical Goggles"
+        },
+        "2": {
+            "GXT": "CLO_SBM_PE_1_2",
+            "Localized": "Ash Tactical Goggles"
+        },
+        "3": {
+            "GXT": "CLO_SBM_PE_1_3",
+            "Localized": "White Tactical Goggles"
+        },
+        "4": {
+            "GXT": "CLO_SBM_PE_1_4",
+            "Localized": "Red Tactical Goggles"
+        },
+        "5": {
+            "GXT": "CLO_SBM_PE_1_5",
+            "Localized": "Navy Tactical Goggles"
+        },
+        "6": {
+            "GXT": "CLO_SBM_PE_1_6",
+            "Localized": "Green Tactical Goggles"
+        },
+        "7": {
+            "GXT": "CLO_SBM_PE_1_7",
+            "Localized": "Moss Tactical Goggles"
+        },
+        "8": {
+            "GXT": "CLO_SBM_PE_1_8",
+            "Localized": "Olive Tactical Goggles"
+        },
+        "9": {
+            "GXT": "CLO_SBM_PE_1_9",
+            "Localized": "Dark Tan Tactical Goggles"
+        },
+        "10": {
+            "GXT": "CLO_SBM_PE_1_10",
+            "Localized": "Desert Tactical Goggles"
+        },
+        "11": {
+            "GXT": "CLO_SBM_PE_1_11",
+            "Localized": "Tan Tactical Goggles"
+        },
+        "12": {
+            "GXT": "CLO_SBM_PE_1_12",
+            "Localized": "Light Woodland Tactical Goggles"
+        },
+        "13": {
+            "GXT": "CLO_SBM_PE_1_13",
+            "Localized": "Flecktarn Tactical Goggles"
+        },
+        "14": {
+            "GXT": "CLO_SBM_PE_1_14",
+            "Localized": "Peach Camo Tactical Goggles"
+        },
+        "15": {
+            "GXT": "CLO_SBM_PE_1_15",
+            "Localized": "Contrast Camo Tactical Goggles"
+        },
+        "16": {
+            "GXT": "CLO_SBM_PE_1_16",
+            "Localized": "Aqua Camo Tactical Goggles"
+        },
+        "17": {
+            "GXT": "CLO_SBM_PE_1_17",
+            "Localized": "Olive Digital Tactical Goggles"
+        },
+        "18": {
+            "GXT": "CLO_SBM_PE_1_18",
+            "Localized": "Brown Digital Tactical Goggles"
+        },
+        "19": {
+            "GXT": "CLO_SBM_PE_1_19",
+            "Localized": "Fall Tactical Goggles"
+        }
+    },
+    "42": {
+        "0": {
+            "GXT": "CLO_X6M_EY_0_0",
+            "Localized": "Black Cat Eye Shades"
+        },
+        "1": {
+            "GXT": "CLO_X6M_EY_0_1",
+            "Localized": "White Cat Eye Shades"
+        },
+        "2": {
+            "GXT": "CLO_X6M_EY_0_2",
+            "Localized": "Magenta Cat Eye Shades"
+        },
+        "3": {
+            "GXT": "CLO_X6M_EY_0_3",
+            "Localized": "Red Cat Eye Shades"
+        },
+        "4": {
+            "GXT": "CLO_X6M_EY_0_4",
+            "Localized": "Orange Cat Eye Shades"
+        },
+        "5": {
+            "GXT": "CLO_X6M_EY_0_5",
+            "Localized": "Mustard Cat Eye Shades"
+        },
+        "6": {
+            "GXT": "CLO_X6M_EY_0_6",
+            "Localized": "Lemon Cat Eye Shades"
+        },
+        "7": {
+            "GXT": "CLO_X6M_EY_0_7",
+            "Localized": "Blue Cat Eye Shades"
+        },
+        "8": {
+            "GXT": "CLO_X6M_EY_0_8",
+            "Localized": "Cyan Cat Eye Shades"
+        },
+        "9": {
+            "GXT": "CLO_X6M_EY_0_9",
+            "Localized": "Green Cat Eye Shades"
+        },
+        "10": {
+            "GXT": "CLO_X6M_EY_010",
+            "Localized": "Lime Cat Eye Shades"
+        },
+        "11": {
+            "GXT": "CLO_X6M_EY_011",
+            "Localized": "Lavender Cat Eye Shades"
+        },
+        "12": {
+            "GXT": "CLO_X6M_EY_012",
+            "Localized": "Purple Cat Eye Shades"
+        },
+        "13": {
+            "GXT": "CLO_X6M_EY_013",
+            "Localized": "Tortoiseshell Cat Eye Shades"
+        },
+        "14": {
+            "GXT": "CLO_X6M_EY_014",
+            "Localized": "Orange Tint Cat Eye Shades"
+        },
+        "15": {
+            "GXT": "CLO_X6M_EY_015",
+            "Localized": "Blue Tint Cat Eye Shades"
+        }
+    },
+    "43": {
+        "0": {
+            "GXT": "CLO_X6M_EY_1_0",
+            "Localized": "Red Manor Round Brow Shades"
+        }
+    },
+    "44": {
+        "0": {
+            "GXT": "CLO_X6M_EY_2_0",
+            "Localized": "Gold New Year Glasses"
+        },
+        "1": {
+            "GXT": "CLO_X6M_EY_2_1",
+            "Localized": "Silver New Year Glasses"
+        },
+        "2": {
+            "GXT": "CLO_X6M_EY_2_2",
+            "Localized": "Rainbow New Year Glasses"
+        }
+    },
+    "45": {
+        "0": {
+            "GXT": "CLO_X6M_EY_3_0",
+            "Localized": "Black Bigness Wraps"
+        },
+        "1": {
+            "GXT": "CLO_X6M_EY_3_1",
+            "Localized": "Purple Bigness Wraps"
+        },
+        "2": {
+            "GXT": "CLO_X6M_EY_3_2",
+            "Localized": "White Bigness Wraps"
+        },
+        "3": {
+            "GXT": "CLO_X6M_EY_3_3",
+            "Localized": "Zebra Bigness Wraps"
+        },
+        "4": {
+            "GXT": "CLO_X6M_EY_3_4",
+            "Localized": "Pink Zebra Bigness Wraps"
+        },
+        "5": {
+            "GXT": "CLO_X6M_EY_3_5",
+            "Localized": "Blue DS Wraps"
+        },
+        "6": {
+            "GXT": "CLO_X6M_EY_3_6",
+            "Localized": "Green Flames Wraps"
+        },
+        "7": {
+            "GXT": "CLO_X6M_EY_3_7",
+            "Localized": "Orange Flames Wraps"
+        },
+        "8": {
+            "GXT": "CLO_X6M_EY_3_8",
+            "Localized": "Pink Flames Wraps"
+        },
+        "9": {
+            "GXT": "CLO_X6M_EY_3_9",
+            "Localized": "Purple Flames Wraps"
+        },
+        "10": {
+            "GXT": "CLO_X6M_EY_3_10",
+            "Localized": "Red Flames Wraps"
+        },
+        "11": {
+            "GXT": "CLO_X6M_EY_3_11",
+            "Localized": "Magenta Leopard Güffy Wraps"
+        },
+        "12": {
+            "GXT": "CLO_X6M_EY_3_12",
+            "Localized": "Cyan Leopard Güffy Wraps"
+        },
+        "13": {
+            "GXT": "CLO_X6M_EY_3_13",
+            "Localized": "Moss Leopard Güffy Wraps"
+        },
+        "14": {
+            "GXT": "CLO_X6M_EY_3_14",
+            "Localized": "Blue Lightning Wraps"
+        },
+        "15": {
+            "GXT": "CLO_X6M_EY_3_15",
+            "Localized": "White Lightning Wraps"
+        },
+        "16": {
+            "GXT": "CLO_X6M_EY_3_16",
+            "Localized": "Green Lightning Wraps"
+        },
+        "17": {
+            "GXT": "CLO_X6M_EY_3_17",
+            "Localized": "Orange Lightning Wraps"
+        },
+        "18": {
+            "GXT": "CLO_X6M_EY_3_18",
+            "Localized": "Purple Lightning Wraps"
+        },
+        "19": {
+            "GXT": "CLO_X6M_EY_3_19",
+            "Localized": "Pink Lightning Wraps"
+        },
+        "20": {
+            "GXT": "CLO_X6M_EY_3_20",
+            "Localized": "Gray Camo Sand Castle Wraps"
+        },
+        "21": {
+            "GXT": "CLO_X6M_EY_3_21",
+            "Localized": "Aqua Camo Sand Castle Wraps"
+        },
+        "22": {
+            "GXT": "CLO_X6M_EY_3_22",
+            "Localized": "Gray Dazzle Sand Castle Wraps"
+        },
+        "23": {
+            "GXT": "CLO_X6M_EY_3_23",
+            "Localized": "Aqua Dazzle Sand Castle Wraps"
+        },
+        "24": {
+            "GXT": "CLO_X6M_EY_3_24",
+            "Localized": "Black SC Coin Wraps"
+        },
+        "25": {
+            "GXT": "CLO_X6M_EY_3_25",
+            "Localized": "Blue SC Coin Wraps"
+        }
+    },
+    "46": {
+        "0": {
+            "GXT": "CLO_X6M_EY_4_0",
+            "Localized": "Lime SC Coin Wraps"
+        },
+        "1": {
+            "GXT": "CLO_X6M_EY_4_1",
+            "Localized": "Pink SC Coin Wraps"
+        },
+        "2": {
+            "GXT": "CLO_X6M_EY_4_2",
+            "Localized": "Red SC Coin Wraps"
+        },
+        "3": {
+            "GXT": "CLO_X6M_EY_4_3",
+            "Localized": "White SC Coin Wraps"
+        }
+    },
+    "47": {
+        "0": {
+            "GXT": "CLO_SCM_EY_0_0",
+            "Localized": "Zebra Bigness Shades"
+        },
+        "1": {
+            "GXT": "CLO_SCM_EY_0_1",
+            "Localized": "Pink Bigness Zebra Shades"
+        },
+        "2": {
+            "GXT": "CLO_SCM_EY_0_2",
+            "Localized": "Green Flames Shades"
+        },
+        "3": {
+            "GXT": "CLO_SCM_EY_0_3",
+            "Localized": "Orange Flames Shades"
+        },
+        "4": {
+            "GXT": "CLO_SCM_EY_0_4",
+            "Localized": "Pink Flames Shades"
+        },
+        "5": {
+            "GXT": "CLO_SCM_EY_0_5",
+            "Localized": "Purple Flames Shades"
+        },
+        "6": {
+            "GXT": "CLO_SCM_EY_0_6",
+            "Localized": "Red Flames Shades"
+        },
+        "7": {
+            "GXT": "CLO_SCM_EY_0_7",
+            "Localized": "Black Le Chien Shades"
+        },
+        "8": {
+            "GXT": "CLO_SCM_EY_0_8",
+            "Localized": "Teal Le Chien Shades"
+        },
+        "9": {
+            "GXT": "CLO_SCM_EY_0_9",
+            "Localized": "Red Le Chien Shades"
+        },
+        "10": {
+            "GXT": "CLO_SCM_EY_0_10",
+            "Localized": "White Le Chien Shades"
+        },
+        "11": {
+            "GXT": "CLO_SCM_EY_0_11",
+            "Localized": "Blue Lightning Shades"
+        },
+        "12": {
+            "GXT": "CLO_SCM_EY_0_12",
+            "Localized": "Gray Lightning Shades"
+        },
+        "13": {
+            "GXT": "CLO_SCM_EY_0_13",
+            "Localized": "Green Lightning Shades"
+        },
+        "14": {
+            "GXT": "CLO_SCM_EY_0_14",
+            "Localized": "Orange Lightning Shades"
+        },
+        "15": {
+            "GXT": "CLO_SCM_EY_0_15",
+            "Localized": "Purple Lightning Shades"
+        },
+        "16": {
+            "GXT": "CLO_SCM_EY_0_16",
+            "Localized": "Red Lightning Shades"
+        },
+        "17": {
+            "GXT": "CLO_SCM_EY_0_17",
+            "Localized": "White Leopard Slab Shades"
+        },
+        "18": {
+            "GXT": "CLO_SCM_EY_0_18",
+            "Localized": "Blue Leopard Slab Shades"
+        },
+        "19": {
+            "GXT": "CLO_SCM_EY_0_19",
+            "Localized": "Lemon Leopard Slab Shades"
+        },
+        "20": {
+            "GXT": "CLO_SCM_EY_0_20",
+            "Localized": "Tortoiseshell Shades"
+        },
+        "21": {
+            "GXT": "CLO_SCM_EY_0_21",
+            "Localized": "Orange Marble Shades"
+        },
+        "22": {
+            "GXT": "CLO_SCM_EY_0_22",
+            "Localized": "Dark Tortoiseshell Shades"
+        },
+        "23": {
+            "GXT": "CLO_SCM_EY_0_23",
+            "Localized": "Camo Yeti Shades"
+        },
+        "24": {
+            "GXT": "CLO_SCM_EY_0_24",
+            "Localized": "Gray Camo Yeti Shades"
+        },
+        "25": {
+            "GXT": "CLO_SCM_EY_0_25",
+            "Localized": "Pink Camo Yeti Shades"
+        }
+    },
+    "48": {
+        "0": {
+            "GXT": "CLO_SCM_EY_1_0",
+            "Localized": "Black Feline Shades"
+        },
+        "1": {
+            "GXT": "CLO_SCM_EY_1_1",
+            "Localized": "White Feline Shades"
+        },
+        "2": {
+            "GXT": "CLO_SCM_EY_1_2",
+            "Localized": "Hot Pink Feline Shades"
+        },
+        "3": {
+            "GXT": "CLO_SCM_EY_1_3",
+            "Localized": "Scarlet Feline Shades"
+        },
+        "4": {
+            "GXT": "CLO_SCM_EY_1_4",
+            "Localized": "Orange Feline Shades"
+        },
+        "5": {
+            "GXT": "CLO_SCM_EY_1_5",
+            "Localized": "Amber Feline Shades"
+        },
+        "6": {
+            "GXT": "CLO_SCM_EY_1_6",
+            "Localized": "Lemon Feline Shades"
+        },
+        "7": {
+            "GXT": "CLO_SCM_EY_1_7",
+            "Localized": "Blue Feline Shades"
+        },
+        "8": {
+            "GXT": "CLO_SCM_EY_1_8",
+            "Localized": "Cyan Feline Shades"
+        },
+        "9": {
+            "GXT": "CLO_SCM_EY_1_9",
+            "Localized": "Emerald Feline Shades"
+        },
+        "10": {
+            "GXT": "CLO_SCM_EY_1_10",
+            "Localized": "Lime Feline Shades"
+        },
+        "11": {
+            "GXT": "CLO_SCM_EY_1_11",
+            "Localized": "Lavender Feline Shades"
+        },
+        "12": {
+            "GXT": "CLO_SCM_EY_1_12",
+            "Localized": "Magenta Feline Shades"
+        },
+        "13": {
+            "GXT": "CLO_SCM_EY_1_13",
+            "Localized": "Tortoiseshell Feline Shades"
+        },
+        "14": {
+            "GXT": "CLO_SCM_EY_1_14",
+            "Localized": "Dark Tortoiseshell Feline Shades"
+        }
+    },
+    "49": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "50": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "51": {
+        "0": {
+            "GXT": "CLO_SCM_EY_4_0",
+            "Localized": "Silver/Black Octagonal"
+        },
+        "1": {
+            "GXT": "CLO_SCM_EY_4_1",
+            "Localized": "Dark Silver/Black Octagonal"
+        },
+        "2": {
+            "GXT": "CLO_SCM_EY_4_2",
+            "Localized": "Gold/Black Octagonal"
+        },
+        "3": {
+            "GXT": "CLO_SCM_EY_4_3",
+            "Localized": "Rose Gold/Black Octagonal"
+        },
+        "4": {
+            "GXT": "CLO_SCM_EY_4_4",
+            "Localized": "Copper/Green Octagonal"
+        },
+        "5": {
+            "GXT": "CLO_SCM_EY_4_5",
+            "Localized": "Gold/Orange Octagonal"
+        },
+        "6": {
+            "GXT": "CLO_SCM_EY_4_6",
+            "Localized": "Gold/Blue Octagonal"
+        },
+        "7": {
+            "GXT": "CLO_SCM_EY_4_7",
+            "Localized": "Gold/Green Octagonal"
+        },
+        "8": {
+            "GXT": "CLO_SCM_EY_4_8",
+            "Localized": "Rose Gold/Pink Octagonal"
+        }
+    },
+    "52": {
+        "0": {
+            "GXT": "CLO_SCM_EY_5_0",
+            "Localized": "Junk Energy Goggles"
+        }
+    },
+    "53": {
+        "0": {
+            "GXT": "CLO_X7M_PE_0_0",
+            "Localized": "Pink Heart Shades"
+        },
+        "1": {
+            "GXT": "CLO_X7M_PE_0_1",
+            "Localized": "Red Heart Shades"
+        },
+        "2": {
+            "GXT": "CLO_X7M_PE_0_2",
+            "Localized": "Orange Heart Shades"
+        },
+        "3": {
+            "GXT": "CLO_X7M_PE_0_3",
+            "Localized": "Yellow Heart Shades"
+        },
+        "4": {
+            "GXT": "CLO_X7M_PE_0_4",
+            "Localized": "Green Heart Shades"
+        },
+        "5": {
+            "GXT": "CLO_X7M_PE_0_5",
+            "Localized": "Blue Heart Shades"
+        },
+        "6": {
+            "GXT": "CLO_X7M_PE_0_6",
+            "Localized": "Purple Heart Shades"
+        },
+        "7": {
+            "GXT": "CLO_X7M_PE_0_7",
+            "Localized": "Black Heart Shades"
+        }
+    },
+    "54": {
+        "0": {
+            "GXT": "CLO_X7M_PE_1_0",
+            "Localized": "Black Retro Aviator Shades"
+        },
+        "1": {
+            "GXT": "CLO_X7M_PE_1_1",
+            "Localized": "Shell Retro Aviator Shades"
+        }
+    },
+    "55": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "2": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "3": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "56": {
+        "0": {
+            "GXT": "CLO_SDM_PE_0_0",
+            "Localized": "Gold & Black Round"
+        },
+        "1": {
+            "GXT": "CLO_SDM_PE_0_1",
+            "Localized": "Brown & Gold Round"
+        },
+        "2": {
+            "GXT": "CLO_SDM_PE_0_2",
+            "Localized": "Gold & Red Round"
+        },
+        "3": {
+            "GXT": "CLO_SDM_PE_0_3",
+            "Localized": "Silver & Black Round"
+        },
+        "4": {
+            "GXT": "CLO_SDM_PE_0_4",
+            "Localized": "Silver & Pink Round"
+        },
+        "5": {
+            "GXT": "CLO_SDM_PE_0_5",
+            "Localized": "Silver & Aqua Round"
+        },
+        "6": {
+            "GXT": "CLO_SDM_PE_0_6",
+            "Localized": "Dark Silver & Black Round"
+        },
+        "7": {
+            "GXT": "CLO_SDM_PE_0_7",
+            "Localized": "Black & Indigo Round"
+        },
+        "8": {
+            "GXT": "CLO_SDM_PE_0_8",
+            "Localized": "Dark Silver & Green Round"
+        }
+    },
+    "57": {
+        "0": {
+            "GXT": "CLO_SDM_PE_1_0",
+            "Localized": "Black Shields"
+        },
+        "1": {
+            "GXT": "CLO_SDM_PE_1_1",
+            "Localized": "Black & Amber Shields"
+        },
+        "2": {
+            "GXT": "CLO_SDM_PE_1_2",
+            "Localized": "Black & Yellow Shields"
+        },
+        "3": {
+            "GXT": "CLO_SDM_PE_1_3",
+            "Localized": "White & Gray Shields"
+        },
+        "4": {
+            "GXT": "CLO_SDM_PE_1_4",
+            "Localized": "White & Amber Shields"
+        },
+        "5": {
+            "GXT": "CLO_SDM_PE_1_5",
+            "Localized": "White & Yellow Shields"
+        },
+        "6": {
+            "GXT": "CLO_SDM_PE_1_6",
+            "Localized": "Black Tortoiseshell Shields"
+        },
+        "7": {
+            "GXT": "CLO_SDM_PE_1_7",
+            "Localized": "Amber Tortoiseshell Shields"
+        }
+    },
+    "58": {
+        "0": {
+            "GXT": "CLO_SDM_PE_2_0",
+            "Localized": "Black Sunrise Shields"
+        },
+        "1": {
+            "GXT": "CLO_SDM_PE_2_1",
+            "Localized": "Black Twilight Shields"
+        },
+        "2": {
+            "GXT": "CLO_SDM_PE_2_2",
+            "Localized": "White Sunrise Shields"
+        },
+        "3": {
+            "GXT": "CLO_SDM_PE_2_3",
+            "Localized": "White Twilight Shields"
+        }
     }
 }

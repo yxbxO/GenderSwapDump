@@ -534,5 +534,155 @@
             "GXT": "CLO_H4F_PLW_011",
             "Localized": "Tropical Bangles (L)"
         }
+    },
+    "30": {
+        "0": {
+            "GXT": "CLO_SBF_LW_0_0",
+            "Localized": "Gold Encrusted Bracelet"
+        },
+        "1": {
+            "GXT": "CLO_SBF_LW_0_1",
+            "Localized": "Silver Encrusted Bracelet"
+        },
+        "2": {
+            "GXT": "CLO_SBF_LW_0_2",
+            "Localized": "Rose Encrusted Bracelet"
+        }
+    },
+    "31": {
+        "0": {
+            "GXT": "CLO_SBF_LW_1_0",
+            "Localized": "Gold Ursine Bracelet"
+        },
+        "1": {
+            "GXT": "CLO_SBF_LW_1_1",
+            "Localized": "Silver Ursine Bracelet"
+        },
+        "2": {
+            "GXT": "CLO_SBF_LW_1_2",
+            "Localized": "Rose Ursine Bracelet"
+        }
+    },
+    "32": {
+        "0": {
+            "GXT": "CLO_SBF_LW_2_0",
+            "Localized": "Gold Round Bracelet"
+        },
+        "1": {
+            "GXT": "CLO_SBF_LW_2_1",
+            "Localized": "Silver Round Bracelet"
+        },
+        "2": {
+            "GXT": "CLO_SBF_LW_2_2",
+            "Localized": "Rose Round Bracelet"
+        }
+    },
+    "33": {
+        "0": {
+            "GXT": "CLO_SBF_LW_3_0",
+            "Localized": "Gold Square Jewel Chain"
+        },
+        "1": {
+            "GXT": "CLO_SBF_LW_3_1",
+            "Localized": "Silver Square Jewel Chain"
+        },
+        "2": {
+            "GXT": "CLO_SBF_LW_3_2",
+            "Localized": "Rose Square Jewel Chain"
+        }
+    },
+    "34": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "35": {
+        "0": {
+            "GXT": "CLO_X6F_LW_0_0",
+            "Localized": "Silver Beaded Bracelet"
+        },
+        "1": {
+            "GXT": "CLO_X6F_LW_0_1",
+            "Localized": "Mono Beaded Bracelet"
+        },
+        "2": {
+            "GXT": "CLO_X6F_LW_0_2",
+            "Localized": "Gold Beaded Bracelet"
+        },
+        "3": {
+            "GXT": "CLO_X6F_LW_0_3",
+            "Localized": "Rose Beaded Bracelet"
+        },
+        "4": {
+            "GXT": "CLO_X6F_LW_0_4",
+            "Localized": "Copper Beaded Bracelet"
+        }
+    },
+    "36": {
+        "0": {
+            "GXT": "CLO_X6F_LW_1_0",
+            "Localized": "Ox Blood Bracelet Ensemble"
+        },
+        "1": {
+            "GXT": "CLO_X6F_LW_1_1",
+            "Localized": "Green Bracelet Ensemble"
+        },
+        "2": {
+            "GXT": "CLO_X6F_LW_1_2",
+            "Localized": "Tan Bracelet Ensemble"
+        },
+        "3": {
+            "GXT": "CLO_X6F_LW_1_3",
+            "Localized": "Blush Bracelet Ensemble"
+        },
+        "4": {
+            "GXT": "CLO_X6F_LW_1_4",
+            "Localized": "Dark Bracelet Ensemble"
+        }
+    },
+    "37": {
+        "0": {
+            "GXT": "CLO_SDF_LW_0_0",
+            "Localized": "Thick Silver Chain Bracelet (L)"
+        },
+        "1": {
+            "GXT": "CLO_SDF_LW_0_1",
+            "Localized": "Thick Dark Chain Bracelet (L)"
+        },
+        "2": {
+            "GXT": "CLO_SDF_LW_0_2",
+            "Localized": "Thick Gold Chain Bracelet (L)"
+        },
+        "3": {
+            "GXT": "CLO_SDF_LW_0_3",
+            "Localized": "Thick Rose Chain Bracelet (L)"
+        },
+        "4": {
+            "GXT": "CLO_SDF_LW_0_4",
+            "Localized": "Thick Bronze Chain Bracelet (L)"
+        }
+    },
+    "38": {
+        "0": {
+            "GXT": "CLO_SDF_LW_1_0",
+            "Localized": "Silver Bangle Cuff Bracelet (L)"
+        },
+        "1": {
+            "GXT": "CLO_SDF_LW_1_1",
+            "Localized": "Dark Bangle Cuff Bracelet (L)"
+        },
+        "2": {
+            "GXT": "CLO_SDF_LW_1_2",
+            "Localized": "Gold Bangle Cuff Bracelet (L)"
+        },
+        "3": {
+            "GXT": "CLO_SDF_LW_1_3",
+            "Localized": "Rose Bangle Cuff Bracelet (L)"
+        },
+        "4": {
+            "GXT": "CLO_SDF_LW_1_4",
+            "Localized": "Bronze Bangle Cuff Bracelet (L)"
+        }
     }
 }

@@ -23,21 +23,51 @@
     <ClCompile Include="Source.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Helpers.cpp">
+    <ClCompile Include="Parsers\JsonParser.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Parsers\ScriptMetadataParser.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Parsers\XmlParser.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Processors\ClothingProcessor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Core\Logger.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Output\ClothingDumper.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="ParseClass.h">
+    <ClInclude Include="Parsers\JsonParser.h">
       <Filter>Resources\Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="SMclass.h">
+    <ClInclude Include="Parsers\ScriptMetadataParser.h">
       <Filter>Resources\Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Helpers.h">
+    <ClInclude Include="Parsers\XmlParser.h">
       <Filter>Resources\Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="JParse.h">
+    <ClInclude Include="Processors\ClothingProcessor.h">
+      <Filter>Resources\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Core\Interfaces.h">
+      <Filter>Resources\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Core\Logger.h">
+      <Filter>Resources\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Core\Constants.h">
+      <Filter>Resources\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Models\ClothingTypes.h">
+      <Filter>Resources\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Output\ClothingDumper.h">
       <Filter>Resources\Header Files</Filter>
     </ClInclude>
   </ItemGroup>

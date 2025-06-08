@@ -6244,5 +6244,1771 @@
             "GXT": "CLO_FXF_L_5_25",
             "Localized": "Midnight Swallow Tie-dye Beach"
         }
+    },
+    "151": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "2": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "3": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "4": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "5": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "6": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "7": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "8": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "9": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "10": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "11": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "12": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "13": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "14": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "15": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "152": {
+        "0": {
+            "GXT": "CLO_SBF_L_0_0",
+            "Localized": "Green UFO Boxer Shorts"
+        },
+        "1": {
+            "GXT": "CLO_SBF_L_0_1",
+            "Localized": "White UFO Boxer Shorts"
+        }
+    },
+    "153": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "154": {
+        "0": {
+            "GXT": "CLO_SBF_L_2_0",
+            "Localized": "White Jean Shorts"
+        },
+        "1": {
+            "GXT": "CLO_SBF_L_2_1",
+            "Localized": "Gray Jean Shorts"
+        },
+        "2": {
+            "GXT": "CLO_SBF_L_2_2",
+            "Localized": "Charcoal Jean Shorts"
+        },
+        "3": {
+            "GXT": "CLO_SBF_L_2_3",
+            "Localized": "Black Jean Shorts"
+        },
+        "4": {
+            "GXT": "CLO_SBF_L_2_4",
+            "Localized": "Indigo Jean Shorts"
+        },
+        "5": {
+            "GXT": "CLO_SBF_L_2_5",
+            "Localized": "Light Jean Shorts"
+        },
+        "6": {
+            "GXT": "CLO_SBF_L_2_6",
+            "Localized": "Stonewash Jean Shorts"
+        },
+        "7": {
+            "GXT": "CLO_SBF_L_2_7",
+            "Localized": "Standard Jean Shorts"
+        },
+        "8": {
+            "GXT": "CLO_SBF_L_2_8",
+            "Localized": "Classic Jean Shorts"
+        },
+        "9": {
+            "GXT": "CLO_SBF_L_2_9",
+            "Localized": "Dark Jean Shorts"
+        },
+        "10": {
+            "GXT": "CLO_SBF_L_2_10",
+            "Localized": "Faded White Jean Shorts"
+        },
+        "11": {
+            "GXT": "CLO_SBF_L_2_11",
+            "Localized": "Faded Charcoal Jean Shorts"
+        },
+        "12": {
+            "GXT": "CLO_SBF_L_2_12",
+            "Localized": "Faded Classic Jean Shorts"
+        },
+        "13": {
+            "GXT": "CLO_SBF_L_2_13",
+            "Localized": "Faded Standard Jean Shorts"
+        },
+        "14": {
+            "GXT": "CLO_SBF_L_2_14",
+            "Localized": "Faded Dark Jean Shorts"
+        },
+        "15": {
+            "GXT": "CLO_SBF_L_2_15",
+            "Localized": "Faded Indigo Jean Shorts"
+        },
+        "16": {
+            "GXT": "CLO_SBF_L_2_16",
+            "Localized": "Faded Stonewash Jean Shorts"
+        },
+        "17": {
+            "GXT": "CLO_SBF_L_2_17",
+            "Localized": "Faded Light Jean Shorts"
+        },
+        "18": {
+            "GXT": "CLO_SBF_L_2_18",
+            "Localized": "Burgundy Jean Shorts"
+        },
+        "19": {
+            "GXT": "CLO_SBF_L_2_19",
+            "Localized": "Orange Jean Shorts"
+        },
+        "20": {
+            "GXT": "CLO_SBF_L_2_20",
+            "Localized": "Amber Jean Shorts"
+        },
+        "21": {
+            "GXT": "CLO_SBF_L_2_21",
+            "Localized": "Lemon Jean Shorts"
+        },
+        "22": {
+            "GXT": "CLO_SBF_L_2_22",
+            "Localized": "Lavender Jean Shorts"
+        },
+        "23": {
+            "GXT": "CLO_SBF_L_2_23",
+            "Localized": "Moss Jean Shorts"
+        },
+        "24": {
+            "GXT": "CLO_SBF_L_2_24",
+            "Localized": "Peach Jean Shorts"
+        },
+        "25": {
+            "GXT": "CLO_SBF_L_2_25",
+            "Localized": "Pink Jean Shorts"
+        }
+    },
+    "155": {
+        "0": {
+            "GXT": "CLO_SBF_L_3_0",
+            "Localized": "Ash Denim Skirt"
+        },
+        "1": {
+            "GXT": "CLO_SBF_L_3_1",
+            "Localized": "Gray Denim Skirt"
+        },
+        "2": {
+            "GXT": "CLO_SBF_L_3_2",
+            "Localized": "Dark Gray Denim Skirt"
+        },
+        "3": {
+            "GXT": "CLO_SBF_L_3_3",
+            "Localized": "Black Denim Skirt"
+        },
+        "4": {
+            "GXT": "CLO_SBF_L_3_4",
+            "Localized": "Standard Denim Skirt"
+        },
+        "5": {
+            "GXT": "CLO_SBF_L_3_5",
+            "Localized": "Classic Denim Skirt"
+        },
+        "6": {
+            "GXT": "CLO_SBF_L_3_6",
+            "Localized": "Light Denim Skirt"
+        },
+        "7": {
+            "GXT": "CLO_SBF_L_3_7",
+            "Localized": "Stonewash Denim Skirt"
+        },
+        "8": {
+            "GXT": "CLO_SBF_L_3_8",
+            "Localized": "Dark Denim Skirt"
+        },
+        "9": {
+            "GXT": "CLO_SBF_L_3_9",
+            "Localized": "Indigo Denim Skirt"
+        },
+        "10": {
+            "GXT": "CLO_SBF_L_3_10",
+            "Localized": "Faded Gray Denim Skirt"
+        },
+        "11": {
+            "GXT": "CLO_SBF_L_3_11",
+            "Localized": "Faded Dark Gray Denim Skirt"
+        },
+        "12": {
+            "GXT": "CLO_SBF_L_3_12",
+            "Localized": "Faded Dark Denim Skirt"
+        },
+        "13": {
+            "GXT": "CLO_SBF_L_3_13",
+            "Localized": "Faded Standard Denim Skirt"
+        },
+        "14": {
+            "GXT": "CLO_SBF_L_3_14",
+            "Localized": "Faded Classic Denim Skirt"
+        },
+        "15": {
+            "GXT": "CLO_SBF_L_3_15",
+            "Localized": "Faded Stonewash Denim Skirt"
+        },
+        "16": {
+            "GXT": "CLO_SBF_L_3_16",
+            "Localized": "Faded Indigo Denim Skirt"
+        },
+        "17": {
+            "GXT": "CLO_SBF_L_3_17",
+            "Localized": "Faded Black Denim Skirt"
+        },
+        "18": {
+            "GXT": "CLO_SBF_L_3_18",
+            "Localized": "Burgundy Denim Skirt"
+        },
+        "19": {
+            "GXT": "CLO_SBF_L_3_19",
+            "Localized": "Orange Denim Skirt"
+        },
+        "20": {
+            "GXT": "CLO_SBF_L_3_20",
+            "Localized": "Amber Denim Skirt"
+        },
+        "21": {
+            "GXT": "CLO_SBF_L_3_21",
+            "Localized": "Lemon Denim Skirt"
+        },
+        "22": {
+            "GXT": "CLO_SBF_L_3_22",
+            "Localized": "Lavender Denim Skirt"
+        },
+        "23": {
+            "GXT": "CLO_SBF_L_3_23",
+            "Localized": "Moss Denim Skirt"
+        },
+        "24": {
+            "GXT": "CLO_SBF_L_3_24",
+            "Localized": "Peach Denim Skirt"
+        },
+        "25": {
+            "GXT": "CLO_SBF_L_3_25",
+            "Localized": "Pink Denim Skirt"
+        }
+    },
+    "156": {
+        "0": {
+            "GXT": "CLO_SBF_L_4_0",
+            "Localized": "Black Laced Leather"
+        },
+        "1": {
+            "GXT": "CLO_SBF_L_4_1",
+            "Localized": "Dark Gray Laced Leather"
+        },
+        "2": {
+            "GXT": "CLO_SBF_L_4_2",
+            "Localized": "Light Gray Laced Leather"
+        },
+        "3": {
+            "GXT": "CLO_SBF_L_4_3",
+            "Localized": "White Laced Leather"
+        },
+        "4": {
+            "GXT": "CLO_SBF_L_4_4",
+            "Localized": "Ox Blood Laced Leather"
+        },
+        "5": {
+            "GXT": "CLO_SBF_L_4_5",
+            "Localized": "Scarlet Laced Leather"
+        },
+        "6": {
+            "GXT": "CLO_SBF_L_4_6",
+            "Localized": "Green Laced Leather"
+        },
+        "7": {
+            "GXT": "CLO_SBF_L_4_7",
+            "Localized": "Red Laced Leather"
+        },
+        "8": {
+            "GXT": "CLO_SBF_L_4_8",
+            "Localized": "Orange Laced Leather"
+        },
+        "9": {
+            "GXT": "CLO_SBF_L_4_9",
+            "Localized": "Amber Laced Leather"
+        },
+        "10": {
+            "GXT": "CLO_SBF_L_4_10",
+            "Localized": "Chestnut Laced Leather"
+        },
+        "11": {
+            "GXT": "CLO_SBF_L_4_11",
+            "Localized": "Pale Brown Laced Leather"
+        },
+        "12": {
+            "GXT": "CLO_SBF_L_4_12",
+            "Localized": "Blue Laced Leather"
+        },
+        "13": {
+            "GXT": "CLO_SBF_L_4_13",
+            "Localized": "Light Blue Laced Leather"
+        },
+        "14": {
+            "GXT": "CLO_SBF_L_4_14",
+            "Localized": "Black & Red Laced Leather"
+        },
+        "15": {
+            "GXT": "CLO_SBF_L_4_15",
+            "Localized": "Worn Dirty Laced Leather"
+        },
+        "16": {
+            "GXT": "CLO_SBF_L_4_16",
+            "Localized": "Worn Gray Laced Leather"
+        },
+        "17": {
+            "GXT": "CLO_SBF_L_4_17",
+            "Localized": "Worn Dark Laced Leather"
+        },
+        "18": {
+            "GXT": "CLO_SBF_L_4_18",
+            "Localized": "Worn Chestnut Laced Leather"
+        },
+        "19": {
+            "GXT": "CLO_SBF_L_4_19",
+            "Localized": "Worn Charcoal Laced Leather"
+        },
+        "20": {
+            "GXT": "CLO_SBF_L_4_20",
+            "Localized": "Worn Ox Blood Laced Leather"
+        }
+    },
+    "157": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "158": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "159": {
+        "0": {
+            "GXT": "CLO_X6F_L_0_0",
+            "Localized": "Black Above Knee"
+        },
+        "1": {
+            "GXT": "CLO_X6F_L_0_1",
+            "Localized": "Dark Gray Above Knee"
+        },
+        "2": {
+            "GXT": "CLO_X6F_L_0_2",
+            "Localized": "Gray Above Knee"
+        },
+        "3": {
+            "GXT": "CLO_X6F_L_0_3",
+            "Localized": "Ice Above Knee"
+        },
+        "4": {
+            "GXT": "CLO_X6F_L_0_4",
+            "Localized": "Beige Above Knee"
+        },
+        "5": {
+            "GXT": "CLO_X6F_L_0_5",
+            "Localized": "Chocolate Above Knee"
+        },
+        "6": {
+            "GXT": "CLO_X6F_L_0_6",
+            "Localized": "Burgundy Above Knee"
+        },
+        "7": {
+            "GXT": "CLO_X6F_L_0_7",
+            "Localized": "Hot Pink Above Knee"
+        },
+        "8": {
+            "GXT": "CLO_X6F_L_0_8",
+            "Localized": "Scarlet Above Knee"
+        },
+        "9": {
+            "GXT": "CLO_X6F_L_0_9",
+            "Localized": "Orange Above Knee"
+        },
+        "10": {
+            "GXT": "CLO_X6F_L_0_10",
+            "Localized": "Amber Above Knee"
+        },
+        "11": {
+            "GXT": "CLO_X6F_L_0_11",
+            "Localized": "Lemon Above Knee"
+        },
+        "12": {
+            "GXT": "CLO_X6F_L_0_12",
+            "Localized": "Royal Blue Above Knee"
+        },
+        "13": {
+            "GXT": "CLO_X6F_L_0_13",
+            "Localized": "Blue Above Knee"
+        },
+        "14": {
+            "GXT": "CLO_X6F_L_0_14",
+            "Localized": "Teal Above Knee"
+        },
+        "15": {
+            "GXT": "CLO_X6F_L_0_15",
+            "Localized": "Cyan Above Knee"
+        },
+        "16": {
+            "GXT": "CLO_X6F_L_0_16",
+            "Localized": "Light Blue Above Knee"
+        },
+        "17": {
+            "GXT": "CLO_X6F_L_0_17",
+            "Localized": "Lilac Above Knee"
+        },
+        "18": {
+            "GXT": "CLO_X6F_L_0_18",
+            "Localized": "Dark Green Above Knee"
+        },
+        "19": {
+            "GXT": "CLO_X6F_L_0_19",
+            "Localized": "Emerald Above Knee"
+        },
+        "20": {
+            "GXT": "CLO_X6F_L_0_20",
+            "Localized": "Moss Above Knee"
+        },
+        "21": {
+            "GXT": "CLO_X6F_L_0_21",
+            "Localized": "Lime Above Knee"
+        },
+        "22": {
+            "GXT": "CLO_X6F_L_0_22",
+            "Localized": "Peach Above Knee"
+        },
+        "23": {
+            "GXT": "CLO_X6F_L_0_23",
+            "Localized": "Lavender Above Knee"
+        },
+        "24": {
+            "GXT": "CLO_X6F_L_0_24",
+            "Localized": "Purple Above Knee"
+        },
+        "25": {
+            "GXT": "CLO_X6F_L_0_25",
+            "Localized": "Magenta Above Knee"
+        }
+    },
+    "160": {
+        "0": {
+            "GXT": "CLO_X6F_L_1_0",
+            "Localized": "White Turnups"
+        },
+        "1": {
+            "GXT": "CLO_X6F_L_1_1",
+            "Localized": "Gray Turnups"
+        },
+        "2": {
+            "GXT": "CLO_X6F_L_1_2",
+            "Localized": "Charcoal Turnups"
+        },
+        "3": {
+            "GXT": "CLO_X6F_L_1_3",
+            "Localized": "Black Turnups"
+        },
+        "4": {
+            "GXT": "CLO_X6F_L_1_4",
+            "Localized": "Indigo Turnups"
+        },
+        "5": {
+            "GXT": "CLO_X6F_L_1_5",
+            "Localized": "Light Turnups"
+        },
+        "6": {
+            "GXT": "CLO_X6F_L_1_6",
+            "Localized": "Stonewash Turnups"
+        },
+        "7": {
+            "GXT": "CLO_X6F_L_1_7",
+            "Localized": "Standard Turnups"
+        },
+        "8": {
+            "GXT": "CLO_X6F_L_1_8",
+            "Localized": "Classic Turnups"
+        },
+        "9": {
+            "GXT": "CLO_X6F_L_1_9",
+            "Localized": "Dark Turnups"
+        },
+        "10": {
+            "GXT": "CLO_X6F_L_1_10",
+            "Localized": "Faded Gray Turnups"
+        },
+        "11": {
+            "GXT": "CLO_X6F_L_1_11",
+            "Localized": "Faded Charcoal Turnups"
+        },
+        "12": {
+            "GXT": "CLO_X6F_L_1_12",
+            "Localized": "Faded Black Turnups"
+        },
+        "13": {
+            "GXT": "CLO_X6F_L_1_13",
+            "Localized": "Faded Indigo Turnups"
+        },
+        "14": {
+            "GXT": "CLO_X6F_L_1_14",
+            "Localized": "Faded Stonewash Turnups"
+        },
+        "15": {
+            "GXT": "CLO_X6F_L_1_15",
+            "Localized": "Faded Standard Turnups"
+        },
+        "16": {
+            "GXT": "CLO_X6F_L_1_16",
+            "Localized": "Faded Classic Turnups"
+        },
+        "17": {
+            "GXT": "CLO_X6F_L_1_17",
+            "Localized": "Faded Dark Turnups"
+        },
+        "18": {
+            "GXT": "CLO_X6F_L_1_18",
+            "Localized": "Burgundy Turnups"
+        },
+        "19": {
+            "GXT": "CLO_X6F_L_1_19",
+            "Localized": "Orange Turnups"
+        },
+        "20": {
+            "GXT": "CLO_X6F_L_1_20",
+            "Localized": "Amber Turnups"
+        },
+        "21": {
+            "GXT": "CLO_X6F_L_1_21",
+            "Localized": "Lemon Turnups"
+        },
+        "22": {
+            "GXT": "CLO_X6F_L_1_22",
+            "Localized": "Lavender Turnups"
+        },
+        "23": {
+            "GXT": "CLO_X6F_L_1_23",
+            "Localized": "Moss Turnups"
+        },
+        "24": {
+            "GXT": "CLO_X6F_L_1_24",
+            "Localized": "Peach Turnups"
+        },
+        "25": {
+            "GXT": "CLO_X6F_L_1_25",
+            "Localized": "Pink Turnups"
+        }
+    },
+    "161": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "CLO_X6F_L_2_1",
+            "Localized": "420 Smoking Pants"
+        }
+    },
+    "162": {
+        "0": {
+            "GXT": "CLO_X6F_L_3_0",
+            "Localized": "Gray Yeti Battle Pants"
+        }
+    },
+    "163": {
+        "0": {
+            "GXT": "CLO_X6F_L_4_0",
+            "Localized": "Broker Checkerboard Cargos"
+        }
+    },
+    "164": {
+        "0": {
+            "GXT": "CLO_X6F_L_4_0",
+            "Localized": "Broker Checkerboard Cargos"
+        }
+    },
+    "165": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "2": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "3": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "4": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "5": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "6": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "7": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "8": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "9": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "10": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "11": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "12": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "13": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "14": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "15": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "16": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "17": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "18": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "19": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "20": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "21": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "22": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "23": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "24": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "25": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "166": {
+        "0": {
+            "GXT": "CLO_X6F_L_7_0",
+            "Localized": "Black Cimicino Embroidered"
+        },
+        "1": {
+            "GXT": "CLO_X6F_L_7_1",
+            "Localized": "Light Cimicino Embroidered"
+        },
+        "2": {
+            "GXT": "CLO_X6F_L_7_2",
+            "Localized": "Black DS Panther Embroidered"
+        },
+        "3": {
+            "GXT": "CLO_X6F_L_7_3",
+            "Localized": "Light DS Panther Embroidered"
+        },
+        "4": {
+            "GXT": "CLO_X6F_L_7_4",
+            "Localized": "Classic DS Tiger Embroidered"
+        },
+        "5": {
+            "GXT": "CLO_X6F_L_7_5",
+            "Localized": "Gray DS Tiger Embroidered"
+        },
+        "6": {
+            "GXT": "CLO_X6F_L_7_6",
+            "Localized": "Black Big Flames Embroidered"
+        },
+        "7": {
+            "GXT": "CLO_X6F_L_7_7",
+            "Localized": "Light Big Flames Embroidered"
+        },
+        "8": {
+            "GXT": "CLO_X6F_L_7_8",
+            "Localized": "Dark Small Flames Embroidered"
+        },
+        "9": {
+            "GXT": "CLO_X6F_L_7_9",
+            "Localized": "Light Small Flames Embroidered"
+        },
+        "10": {
+            "GXT": "CLO_X6F_L_7_10",
+            "Localized": "Classic FB Embroidered"
+        },
+        "11": {
+            "GXT": "CLO_X6F_L_7_11",
+            "Localized": "Gray FB Embroidered"
+        },
+        "12": {
+            "GXT": "CLO_X6F_L_7_12",
+            "Localized": "Black SC Coins Embroidered"
+        },
+        "13": {
+            "GXT": "CLO_X6F_L_7_13",
+            "Localized": "Light SC Coins Embroidered"
+        },
+        "14": {
+            "GXT": "CLO_X6F_L_7_14",
+            "Localized": "Light SC Dragon Embroidered"
+        },
+        "15": {
+            "GXT": "CLO_X6F_L_7_15",
+            "Localized": "Red SC Dragon Embroidered"
+        },
+        "16": {
+            "GXT": "CLO_X6F_L_7_16",
+            "Localized": "Light Stars Embroidered"
+        },
+        "17": {
+            "GXT": "CLO_X6F_L_7_17",
+            "Localized": "Gray Stars Embroidered"
+        },
+        "18": {
+            "GXT": "CLO_X6F_L_7_18",
+            "Localized": "Red Stars Embroidered"
+        }
+    },
+    "167": {
+        "0": {
+            "GXT": "CLO_X6F_L_8_0",
+            "Localized": "Zebra Bigness Wide"
+        },
+        "1": {
+            "GXT": "CLO_X6F_L_8_1",
+            "Localized": "Pink Zebra Bigness Wide"
+        },
+        "2": {
+            "GXT": "CLO_X6F_L_8_2",
+            "Localized": "Black Blagueurs Wide"
+        },
+        "3": {
+            "GXT": "CLO_X6F_L_8_3",
+            "Localized": "Blue Blagueurs Wide"
+        },
+        "4": {
+            "GXT": "CLO_X6F_L_8_4",
+            "Localized": "Red Blagueurs Wide"
+        },
+        "5": {
+            "GXT": "CLO_X6F_L_8_5",
+            "Localized": "White Blagueurs Wide"
+        },
+        "6": {
+            "GXT": "CLO_X6F_L_8_6",
+            "Localized": "Green Flames Wide"
+        },
+        "7": {
+            "GXT": "CLO_X6F_L_8_7",
+            "Localized": "Orange Flames Wide"
+        },
+        "8": {
+            "GXT": "CLO_X6F_L_8_8",
+            "Localized": "Pink Flames Wide"
+        },
+        "9": {
+            "GXT": "CLO_X6F_L_8_9",
+            "Localized": "Purple Flames Wide"
+        },
+        "10": {
+            "GXT": "CLO_X6F_L_8_10",
+            "Localized": "Red Flames Wide"
+        },
+        "11": {
+            "GXT": "CLO_X6F_L_8_11",
+            "Localized": "Blue Lightning Wide"
+        },
+        "12": {
+            "GXT": "CLO_X6F_L_8_12",
+            "Localized": "White Lightning Wide"
+        },
+        "13": {
+            "GXT": "CLO_X6F_L_8_13",
+            "Localized": "Green Lightning Wide"
+        },
+        "14": {
+            "GXT": "CLO_X6F_L_8_14",
+            "Localized": "Orange Lightning Wide"
+        },
+        "15": {
+            "GXT": "CLO_X6F_L_8_15",
+            "Localized": "Purple Lightning Wide"
+        },
+        "16": {
+            "GXT": "CLO_X6F_L_8_16",
+            "Localized": "Pink Lightning Wide"
+        },
+        "17": {
+            "GXT": "CLO_X6F_L_8_17",
+            "Localized": "Blue Marble Wide"
+        },
+        "18": {
+            "GXT": "CLO_X6F_L_8_18",
+            "Localized": "White Marble Wide"
+        },
+        "19": {
+            "GXT": "CLO_X6F_L_8_19",
+            "Localized": "Pink Marble Wide"
+        },
+        "20": {
+            "GXT": "CLO_X6F_L_8_20",
+            "Localized": "Blue Bones Wide"
+        },
+        "21": {
+            "GXT": "CLO_X6F_L_8_21",
+            "Localized": "Black Bones Wide"
+        },
+        "22": {
+            "GXT": "CLO_X6F_L_8_22",
+            "Localized": "Red Bones Wide"
+        },
+        "23": {
+            "GXT": "CLO_X6F_L_8_23",
+            "Localized": "Taupe Bones Wide"
+        },
+        "24": {
+            "GXT": "CLO_X6F_L_8_24",
+            "Localized": "Black Trickster Type Wide"
+        },
+        "25": {
+            "GXT": "CLO_X6F_L_8_25",
+            "Localized": "Orange Trickster Type Wide"
+        }
+    },
+    "168": {
+        "0": {
+            "GXT": "CLO_X6F_L_9_0",
+            "Localized": "Black VDG Bandana Wide"
+        },
+        "1": {
+            "GXT": "CLO_X6F_L_9_1",
+            "Localized": "White VDG Bandana Wide"
+        },
+        "2": {
+            "GXT": "CLO_X6F_L_9_2",
+            "Localized": "Blue Fade VDG Bandana Wide"
+        },
+        "3": {
+            "GXT": "CLO_X6F_L_9_3",
+            "Localized": "Pink Fade VDG Bandana Wide"
+        }
+    },
+    "169": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "170": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "171": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "172": {
+        "0": {
+            "GXT": "CLO_SCF_L_0_0",
+            "Localized": "Zebra Mini"
+        },
+        "1": {
+            "GXT": "CLO_SCF_L_0_1",
+            "Localized": "Pink Zebra Mini"
+        },
+        "2": {
+            "GXT": "CLO_SCF_L_0_2",
+            "Localized": "Black Blagueurs Mini"
+        },
+        "3": {
+            "GXT": "CLO_SCF_L_0_3",
+            "Localized": "Blue Blagueurs Mini"
+        },
+        "4": {
+            "GXT": "CLO_SCF_L_0_4",
+            "Localized": "Red Blagueurs Mini"
+        },
+        "5": {
+            "GXT": "CLO_SCF_L_0_5",
+            "Localized": "White Blagueurs Mini"
+        },
+        "6": {
+            "GXT": "CLO_SCF_L_0_6",
+            "Localized": "Black Enema Mini"
+        },
+        "7": {
+            "GXT": "CLO_SCF_L_0_7",
+            "Localized": "Cyan Enema Mini"
+        },
+        "8": {
+            "GXT": "CLO_SCF_L_0_8",
+            "Localized": "Magenta Enema Mini"
+        },
+        "9": {
+            "GXT": "CLO_SCF_L_0_9",
+            "Localized": "Green Flames Mini"
+        },
+        "10": {
+            "GXT": "CLO_SCF_L_0_10",
+            "Localized": "Orange Flames Mini"
+        },
+        "11": {
+            "GXT": "CLO_SCF_L_0_11",
+            "Localized": "Pink Flames Mini"
+        },
+        "12": {
+            "GXT": "CLO_SCF_L_0_12",
+            "Localized": "Purple Flames Mini"
+        },
+        "13": {
+            "GXT": "CLO_SCF_L_0_13",
+            "Localized": "Red Flames Mini"
+        },
+        "14": {
+            "GXT": "CLO_SCF_L_0_14",
+            "Localized": "Blue Lightning Mini"
+        },
+        "15": {
+            "GXT": "CLO_SCF_L_0_15",
+            "Localized": "Gray Lightning Mini"
+        },
+        "16": {
+            "GXT": "CLO_SCF_L_0_16",
+            "Localized": "Green Lightning Mini"
+        },
+        "17": {
+            "GXT": "CLO_SCF_L_0_17",
+            "Localized": "Orange Lightning Mini"
+        },
+        "18": {
+            "GXT": "CLO_SCF_L_0_18",
+            "Localized": "Purple Lightning Mini"
+        },
+        "19": {
+            "GXT": "CLO_SCF_L_0_19",
+            "Localized": "Red Lightning Mini"
+        },
+        "20": {
+            "GXT": "CLO_SCF_L_0_20",
+            "Localized": "Blue Marble Mini"
+        },
+        "21": {
+            "GXT": "CLO_SCF_L_0_21",
+            "Localized": "White Marble Mini"
+        },
+        "22": {
+            "GXT": "CLO_SCF_L_0_22",
+            "Localized": "Pink Marble Mini"
+        },
+        "23": {
+            "GXT": "CLO_SCF_L_0_23",
+            "Localized": "Wine Red SD Mini"
+        },
+        "24": {
+            "GXT": "CLO_SCF_L_0_24",
+            "Localized": "Yellow SD Mini"
+        },
+        "25": {
+            "GXT": "CLO_SCF_L_0_25",
+            "Localized": "Camo Yeti Mini"
+        }
+    },
+    "173": {
+        "0": {
+            "GXT": "CLO_SCF_L_1_0",
+            "Localized": "Gray Camo Yeti Mini"
+        },
+        "1": {
+            "GXT": "CLO_SCF_L_1_1",
+            "Localized": "Pink Camo Yeti Mini"
+        }
+    },
+    "174": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "175": {
+        "0": {
+            "GXT": "CLO_SCF_L_3_0",
+            "Localized": "PRB Shorts"
+        },
+        "1": {
+            "GXT": "CLO_SCF_L_3_1",
+            "Localized": "Bleedin' Tasty Shorts"
+        }
+    },
+    "176": {
+        "0": {
+            "GXT": "CLO_SCF_L_4_0",
+            "Localized": "Cluckin' Bell Cuffed Sweats"
+        }
+    },
+    "177": {
+        "0": {
+            "GXT": "CLO_SCF_L_5_0",
+            "Localized": "Santo Capra x Manor Chinos"
+        }
+    },
+    "178": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "179": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "180": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "181": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "182": {
+        "0": {
+            "GXT": "CLO_SCF_L_10_0",
+            "Localized": "Hinterland Shorts"
+        }
+    },
+    "183": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "2": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "184": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "2": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "185": {
+        "0": {
+            "GXT": "CLO_SCF_L_13_0",
+            "Localized": "Black Snap Joggers"
+        },
+        "1": {
+            "GXT": "CLO_SCF_L_13_1",
+            "Localized": "Dark Gray Snap Joggers"
+        },
+        "2": {
+            "GXT": "CLO_SCF_L_13_2",
+            "Localized": "Gray Snap Joggers"
+        },
+        "3": {
+            "GXT": "CLO_SCF_L_13_3",
+            "Localized": "Ice Snap Joggers"
+        },
+        "4": {
+            "GXT": "CLO_SCF_L_13_4",
+            "Localized": "Beige Snap Joggers"
+        },
+        "5": {
+            "GXT": "CLO_SCF_L_13_5",
+            "Localized": "Chocolate Snap Joggers"
+        },
+        "6": {
+            "GXT": "CLO_SCF_L_13_6",
+            "Localized": "Burgundy Snap Joggers"
+        },
+        "7": {
+            "GXT": "CLO_SCF_L_13_7",
+            "Localized": "Hot Pink Snap Joggers"
+        },
+        "8": {
+            "GXT": "CLO_SCF_L_13_8",
+            "Localized": "Scarlet Snap Joggers"
+        },
+        "9": {
+            "GXT": "CLO_SCF_L_13_9",
+            "Localized": "Orange Snap Joggers"
+        },
+        "10": {
+            "GXT": "CLO_SCF_L_13_10",
+            "Localized": "Amber Snap Joggers"
+        },
+        "11": {
+            "GXT": "CLO_SCF_L_13_11",
+            "Localized": "Lemon Snap Joggers"
+        },
+        "12": {
+            "GXT": "CLO_SCF_L_13_12",
+            "Localized": "Royal Blue Snap Joggers"
+        },
+        "13": {
+            "GXT": "CLO_SCF_L_13_13",
+            "Localized": "Blue Snap Joggers"
+        },
+        "14": {
+            "GXT": "CLO_SCF_L_13_14",
+            "Localized": "Teal Snap Joggers"
+        },
+        "15": {
+            "GXT": "CLO_SCF_L_13_15",
+            "Localized": "Cyan Snap Joggers"
+        },
+        "16": {
+            "GXT": "CLO_SCF_L_13_16",
+            "Localized": "Light Blue Snap Joggers"
+        },
+        "17": {
+            "GXT": "CLO_SCF_L_13_17",
+            "Localized": "Lilac Snap Joggers"
+        },
+        "18": {
+            "GXT": "CLO_SCF_L_13_18",
+            "Localized": "Dark Green Snap Joggers"
+        },
+        "19": {
+            "GXT": "CLO_SCF_L_13_19",
+            "Localized": "Emerald Snap Joggers"
+        },
+        "20": {
+            "GXT": "CLO_SCF_L_13_20",
+            "Localized": "Moss Snap Joggers"
+        },
+        "21": {
+            "GXT": "CLO_SCF_L_13_21",
+            "Localized": "Lime Snap Joggers"
+        },
+        "22": {
+            "GXT": "CLO_SCF_L_13_22",
+            "Localized": "Peach Snap Joggers"
+        },
+        "23": {
+            "GXT": "CLO_SCF_L_13_23",
+            "Localized": "Lavender Snap Joggers"
+        },
+        "24": {
+            "GXT": "CLO_SCF_L_13_24",
+            "Localized": "Purple Snap Joggers"
+        },
+        "25": {
+            "GXT": "CLO_SCF_L_13_25",
+            "Localized": "Magenta Snap Joggers"
+        }
+    },
+    "186": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "187": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "188": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "189": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "190": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "191": {
+        "0": {
+            "GXT": "CLO_SCF_L_19_0",
+            "Localized": "Alien Tracksuit Pants"
+        }
+    },
+    "192": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "193": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "194": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "195": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "196": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "197": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "198": {
+        "0": {
+            "GXT": "CLO_X7F_L_4_0",
+            "Localized": "Graffiti Jeans"
+        }
+    },
+    "199": {
+        "0": {
+            "GXT": "CLO_X7F_L_5_0",
+            "Localized": "Black Lunar New Year Pants"
+        },
+        "1": {
+            "GXT": "CLO_X7F_L_5_1",
+            "Localized": "Red Lunar New Year Pants"
+        }
+    },
+    "200": {
+        "0": {
+            "GXT": "CLO_X7F_L_6_0",
+            "Localized": "St Patrick's Day Pants"
+        },
+        "1": {
+            "GXT": "CLO_X7F_L_6_1",
+            "Localized": "New Year's Pants"
+        },
+        "2": {
+            "GXT": "CLO_X7F_L_6_2",
+            "Localized": "Independence Day Pants"
+        }
+    },
+    "201": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "202": {
+        "0": {
+            "GXT": "CLO_X7F_L_8_0",
+            "Localized": "Western MC Pants"
+        }
+    },
+    "203": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "204": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "205": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "206": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "2": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "3": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "4": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "5": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "207": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "208": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "209": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "210": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "211": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "212": {
+        "0": {
+            "GXT": "CLO_SDF_L_2_0",
+            "Localized": "Cobalt Jackal Racing Pants"
+        }
+    },
+    "213": {
+        "0": {
+            "GXT": "CLO_SDF_L_3_0",
+            "Localized": "Gold Pisswasser Shorts"
+        }
+    },
+    "214": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "215": {
+        "0": {
+            "GXT": "CLO_SDF_L_5_0",
+            "Localized": "Khaki 247 Chino Pants"
+        }
+    },
+    "216": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "217": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "2": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "3": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "4": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "5": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "6": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "7": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "8": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "9": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "10": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "11": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "12": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "13": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "14": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "218": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "219": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "220": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "221": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "222": {
+        "0": {
+            "GXT": "CLO_X8F_L_2_0",
+            "Localized": "Bigness Sketches Jeans"
+        },
+        "1": {
+            "GXT": "CLO_X8F_L_2_1",
+            "Localized": "Strapz Patterned Jeans"
+        },
+        "2": {
+            "GXT": "CLO_X8F_L_2_2",
+            "Localized": "Los Santos Tattoo Jeans"
+        }
+    },
+    "223": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "224": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "225": {
+        "0": {
+            "GXT": "CLO_X8F_L_5_0",
+            "Localized": "Champagne Pop Pants"
+        },
+        "1": {
+            "GXT": "CLO_X8F_L_5_1",
+            "Localized": "Gold Star Pants"
+        }
+    },
+    "226": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "2": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "3": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "4": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "227": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "228": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "229": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "230": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "231": {
+        "0": {
+            "GXT": "CLO_X8F_L_11_0",
+            "Localized": "Lilac Tie-Dye Bigness Shorts"
+        },
+        "1": {
+            "GXT": "CLO_X8F_L_11_1",
+            "Localized": "White Tie-Dye Bigness Shorts"
+        },
+        "2": {
+            "GXT": "CLO_X8F_L_11_2",
+            "Localized": "Blue Tie-Dye Squash Shorts"
+        },
+        "3": {
+            "GXT": "CLO_X8F_L_11_3",
+            "Localized": "Pink Tie-Dye Squash Shorts"
+        },
+        "4": {
+            "GXT": "CLO_X8F_L_11_4",
+            "Localized": "Moss Tie-Dye Manor Shorts"
+        },
+        "5": {
+            "GXT": "CLO_X8F_L_11_5",
+            "Localized": "Black Tie-Dye Manor Shorts"
+        },
+        "6": {
+            "GXT": "CLO_X8F_L_11_6",
+            "Localized": "Hot Pink Tie-Dye Güffy Shorts"
+        },
+        "7": {
+            "GXT": "CLO_X8F_L_11_7",
+            "Localized": "Emerald Tie-Dye Güffy Shorts"
+        },
+        "8": {
+            "GXT": "CLO_X8F_L_11_8",
+            "Localized": "Teal Grid Sand Castle Shorts"
+        },
+        "9": {
+            "GXT": "CLO_X8F_L_11_9",
+            "Localized": "Black Grid Sand Castle Shorts"
+        },
+        "10": {
+            "GXT": "CLO_X8F_L_11_10",
+            "Localized": "Lilac Leopard Bigness Shorts"
+        },
+        "11": {
+            "GXT": "CLO_X8F_L_11_11",
+            "Localized": "Orange Leopard Bigness Shorts"
+        },
+        "12": {
+            "GXT": "CLO_X8F_L_11_12",
+            "Localized": "Blue Leopard Bigness Shorts"
+        },
+        "13": {
+            "GXT": "CLO_X8F_L_11_13",
+            "Localized": "Orange Leopard Strapz Shorts"
+        },
+        "14": {
+            "GXT": "CLO_X8F_L_11_14",
+            "Localized": "Blue Leopard Strapz Shorts"
+        },
+        "15": {
+            "GXT": "CLO_X8F_L_11_15",
+            "Localized": "Pink Camo Yeti Shorts"
+        },
+        "16": {
+            "GXT": "CLO_X8F_L_11_16",
+            "Localized": "Gray Camo Yeti Shorts"
+        },
+        "17": {
+            "GXT": "CLO_X8F_L_11_17",
+            "Localized": "Woodland Camo Yeti Shorts"
+        },
+        "18": {
+            "GXT": "CLO_X8F_L_11_18",
+            "Localized": "Blue Zebra Heat Shorts"
+        },
+        "19": {
+            "GXT": "CLO_X8F_L_11_19",
+            "Localized": "Black Zebra Heat Shorts"
+        }
     }
 }
